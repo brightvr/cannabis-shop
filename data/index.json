@@ -1,0 +1,75 @@
+[
+    {
+        "nombre":"Combo raw",
+        "precio":"$ 27.000 pesos cop",
+        "img":"assets/img/combo/combo-raw.jpg"
+    },
+    {
+        "nombre":"Clipper",
+        "precio":"$ 3.000 pesos cop",
+        "img":"assets/img/clipper.jpg"
+    },
+
+    {
+        "nombre":"Grinder militar",
+        "precio":"$ 28.000 pesos cop",
+        "img":"assets/img/grinder/grinder-militar-grande.jpg"
+    },
+    {
+        "nombre":"Bong de hielo",
+        "precio":"$ 26.000 pesos cop",
+        "img":"assets/img/bong/bonghielo-fondoblanco.jpg"
+    },
+    {
+        "nombre":"Bong Calavera plastico",
+        "precio":"$ 9.500 pesos cop",
+        "img":"assets/img/bong/calaveraplastico-fondoblanco.jpg"
+    },
+    {
+        "nombre":"Bong Calavera vidrio",
+        "precio":"$ 16.000 pesos cop",
+        "img":"assets/img/bong/calaveravidrio-fondoblanco.jpg"
+    },
+    
+    {
+        "nombre":"Grinder estampado 420",
+        "precio":"$ 25.000 pesos cop",
+        "img":"assets/img/grinder/420-fondoblanco.jpg"
+    },
+    {
+        "nombre":"Grinder calavera",
+        "precio":"$ 15.600 pesos cop",
+        "img":"assets/img/grinder/calavera-fondo-blanco1.jpg"
+    },
+    {
+        "nombre":"Grinder estampado personal",
+        "precio":"$ 18.000 pesos cop",
+        "img":"assets/img/grinder/calaverarosaspequeño-fondoblanco.jpg"
+    },
+    {
+        "nombre":"Grinder estampado",
+        "precio":"$ 25.000 pesos cop",
+        "img":"assets/img/grinder/cannabis-fondoblanco.jpg"
+    },
+    
+    {
+        "nombre":"Bong Estampado",
+        "precio":"$ 14.600 pesos cop",
+        "img":"assets/img/bong/estampadoverde-fondoblanco.jpg"
+    },
+    {
+        "nombre":"Bong tornasol",
+        "precio":"$ 12.000 pesos cop",
+        "img":"assets/img/bong/bongtornasol-fondoblanco.jpg"
+    },
+    {
+        "nombre":"Bong vidrio A1",
+        "precio":"$ 20.000 pesos cop",
+        "img":"assets/img/bong/vidriobotella-fondoblanco.jpg"
+    },
+    {
+        "nombre":"Bong vidrio A2",
+        "precio":"$ 20.000 pesos cop",
+        "img":"assets/img/bong/vidriobotellagruesa-fondoblanco.jpg"
+    }
+]

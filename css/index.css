@@ -1,0 +1,84 @@
+body{
+    font-family: cursive;
+}
+.nav-item{
+    color: white;
+}
+.logo{
+    width: 100px;
+}
+.producto{
+    width: 300px;
+    height: 630px;
+    margin: 10px;
+    
+}
+.contenedor-producto{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.icono-whatsapp{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+.icono-cerrar{
+    font-size: 45px;
+    color: red;
+}
+
+
+.producto-catalogo{
+    box-shadow: 10px 10px 6px rgb(29, 29, 29);
+}
+.page-two{
+
+    width: 100%;
+    height: 100vh;
+    background: rgba(5, 63, 10, 0.781);
+    z-index: 9999999;
+    padding-bottom: 50px;
+
+   
+   
+    
+}
+.container-1{
+    width: 95%;
+    height: 95vh;
+    overflow-y: scroll;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 3%;
+
+}
+
+.do-click{
+
+    background: white;
+    width: 100%;
+    z-index:9999;
+}
+
+
+
+@media(min-width:1000px){
+
+    .producto{
+        margin: 20px;
+    }
+    .card-principal{
+        margin: 10px;
+    }
+    .container-1{
+        width: 60%;
+        margin-top: -50px;
+        margin-bottom: 50px;
+        margin-left: 50px;
+        margin-right: 50px;
+        padding: 70px;
+        margin-left: 150px;
+        background: rgba(247, 247, 247, 0.808);
+
+    }
+}

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Cannabis shop</title>
+
+    <link rel="stylesheet" href="librerias/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="librerias/icons/css/all.css">
+    <link rel="stylesheet" href="css/index.css">
+
+</head>
+<body>
+
+  <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+  <script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        xfbml            : true,
+        version          : 'v8.0'
+      });
+    };
+
+    (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+  <!-- Your Chat Plugin code -->
+  <div class="fb-customerchat"
+    attribution=setup_tool
+    page_id="109591277515881"
+theme_color="#67b868"
+logged_in_greeting="Hola! somos Cannabis shop ¿En que podemos ayudarte?"
+logged_out_greeting="Hola! somos Cannabis shop ¿En que podemos ayudarte?">
+  </div>
+    
+<div class="new-page">
+
+
+</div>
+
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-success">
+        <a class="navbar-brand" href="#"><img class="logo" src="assets/img/logo-cannabis-shop.png" alt=""></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active mr-3">
+              <a class="nav-link" href="#"><h3>Cátalogo</h3></a>
+            </li>
+            <li class="nav-item ml-3">
+              <a class="nav-link" href="#"><h3>Compra protegida</h3></a>
+            </li>
+          </ul>
+        
+        </div>
+      </nav>
+
+
+      
+
+      <br>
+      <hr>
+      <br>
+
+
+    
+
+      <div class="container">
+
+        <div class="do-click">
+        <div class="card-principal">
+        </div>
+      </div>
+
+        <br>
+        <hr>
+        <br>
+
+        <div class="titulo">
+            <div class="alert alert-success d-flex justify-content-center "><h1>Catálogo</h1></div>
+        </div>
+
+        <!--<div class="cont-buscador">
+
+            <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="search" placeholder="Buscar producto" aria-label="Buscar producto">
+                <button class="btn btn-success my-2 my-sm-0" type="submit">Buscar producto</button>
+              </form>
+        </div>-->
+
+
+        <br>
+        <div class="contenedor-productos d-flex flex-wrap justify-content-center">
+
+          
+        </div>
+      </div>
+      
+      
+    <script src="librerias/jquery/jquery-3.5.1.js"></script>
+    <script src="librerias/bootstrap/js/bootstrap.min.js"></script>
+    <script src="librerias/icons/js/all.js"></script>
+    <script src="js/dibujos.js"></script>
+    <script src="js/index.js"></script>
+</body>
+</html>
