@@ -537,7 +537,7 @@ $(window).on('load',function(){
                      </ul>
                      <div class="card-body d-block">
                        <a href="https://api.whatsapp.com/send?phone=573228873812" class="btn btn-success btn-block"><h5>Asesor 1</h5> <span class="icono-whatsapp"><i class="fab fa-whatsapp-square"></i></span> </a>
-                       <a href="https://api.whatsapp.com/send?phone=573228873812" class="btn btn-success btn-block"><h5>Asesor 2</h5> <span class="icono-whatsapp"><i class="fab fa-whatsapp-square"></i></span> </a>
+                       <a href="https://api.whatsapp.com/send?phone=573508327730" class="btn btn-success btn-block"><h5>Asesor 2</h5> <span class="icono-whatsapp"><i class="fab fa-whatsapp-square"></i></span> </a>
      
                      </div>
                    </div>
