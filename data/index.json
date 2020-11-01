@@ -1,10 +1,9 @@
 [
     {
-        "nombre":"Combo raw",
-        "precio":"$ 27.000 pesos cop",
-        "img":"assets/img/combo/combo-raw.jpg"
+        "nombre":"Quemador Snoop Dogg",
+        "precio":"$ 37.000 pesos cop",
+        "img":"assets/img/vaporizador/quemador.png"
     },
-    
     {
         "nombre":"G. Personal Bulldog",
         "precio":"$ 18.000 pesos cop",
@@ -25,7 +24,6 @@
         "precio":"$ 18.000 pesos cop",
         "img":"assets/img/grinder/calaverarosaspequeño-fondoblanco.jpg"
     },
-
     {
         "nombre":"Grinder Esfera",
         "precio":"$ 25.000 pesos cop",
@@ -77,7 +75,6 @@
         "precio":"$ 18.000 pesos cop",
         "img":"assets/img/grinder/negrocalavera-fondoblanco.jpg"
     },
-    
     {
         "nombre":"Grinder Plastico Big",
         "precio":"$ 10.000 pesos cop",
@@ -93,7 +90,6 @@
         "precio":"$ 25.000 pesos cop",
         "img":"assets/img/grinder/g-estampado.png"
     },
-   
     {
         "nombre":"G. Camuflado Grande",
         "precio":"$ 29.000 pesos cop",
@@ -190,7 +186,7 @@
         "img":"assets/img/pipa/tawe-fondoblanco.jpg"
     },
     {
-        "nombre":"Pipa Wax ",
+        "nombre":"Pipa Wax",
         "precio":"$ 18.000 pesos cop",
         "img":"assets/img/pipa/p-wax-grande.png"
     },
@@ -225,7 +221,7 @@
         "img":"assets/img/pipa/p-forro-lisa.png"
     },
     {
-        "nombre":"Pipa Wax Buruja",
+        "nombre":"Pipa Wax Burbuja",
         "precio":"$ 8.000 pesos cop",
         "img":"assets/img/pipa/p-wax-burbuja.png"
     },
@@ -245,9 +241,129 @@
         "img":"assets/img/pipa/vidriogruesa-fondoblanco.jpg"
     },
     {
+        "nombre":"Blunts",
+        "precio":"$ 3.000 pesos cop",
+        "img":"assets/img/cueros/blunts.png"
+    },
+    {
+        "nombre":"Caja Blunt x25",
+        "precio":"$ 50.000 pesos cop",
+        "img":"assets/img/cueros/caja-blunts.png"
+    },
+    {
+        "nombre":"6per Pack Cone",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/cueros/conos.png"
+    },
+    {
+        "nombre":"Blunt Wrap #9",
+        "precio":"$ 2.500 pesos cop",
+        "img":"assets/img/cueros/blunt-wrap-9.png"
+    },
+    {
+        "nombre":"Blunt Wrap #12",
+        "precio":"$ 3.000 pesos cop",
+        "img":"assets/img/cueros/blunt-wrap-12.png"
+    },
+    {
+        "nombre":"Raw Organic #9",
+        "precio":"$ 5.000 pesos cop",
+        "img":"assets/img/cueros/raw-organic.png"
+    },
+    {
+        "nombre":"Raw Classic #9",
+        "precio":"$ 6.000 pesos cop",
+        "img":"assets/img/cueros/raw-classic9.png"
+    },
+    {
+        "nombre":"OCB Organico #9",
+        "precio":"$ 3.000 pesos cop",
+        "img":"assets/img/cueros/cueros-ocb.png"
+    },
+    {
+        "nombre":"Cueros Clipper #12",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/cueros/cueros-clipper.png"
+    },
+    {
+        "nombre":"Cueros Candy",
+        "precio":"$ 10.000 pesos cop",
+        "img":"assets/img/cueros/cueros-candy.png"
+    },
+    {
+        "nombre":"Filtros Raw",
+        "precio":"$ 4.000 pesos cop",
+        "img":"assets/img/filtros/filtros-raw.png"
+    },
+    {
+        "nombre":"Filtros Hornet",
+        "precio":"$ 2.000 pesos cop",
+        "img":"assets/img/filtros/filtros-hornet.png"
+    },
+    {
+        "nombre":"Gramera",
+        "precio":"$ 30.000 pesos cop",
+        "img":"assets/img/otros/gramera.png"
+    },
+    {
+        "nombre":"Maquina para Liar",
+        "precio":"$ 14.000 pesos cop",
+        "img":"assets/img/otros/maquina-liar.png"
+    },
+    {
+        "nombre":"Trio de Copitas",
+        "precio":"$ 39.000 pesos cop",
+        "img":"assets/img/otros/trio-copitas.png"
+    },
+    {
+        "nombre":"Encendedor de Plasma",
+        "precio":"$ 55.000 pesos cop",
+        "img":"assets/img/encendedores/encendedor-plasma.png"
+    },
+    {
+        "nombre":"Zippo",
+        "precio":"$ 12.000 pesos cop",
+        "img":"assets/img/encendedores/zippos.png"
+    },
+    {
+        "nombre":"Benzina para Zippo",
+        "precio":"$ 14.000 pesos cop",
+        "img":"assets/img/encendedores/Benzina.png"
+    },
+    {
         "nombre":"Clipper",
         "precio":"$ 3.000 pesos cop",
-        "img":"assets/img/clipper.jpg"
+        "img":"assets/img/encendedores/clipper.jpg"
+    },
+    {
+        "nombre":"Gas para Clipper",
+        "precio":"$ 3.000 pesos cop",
+        "img":"assets/img/encendedores/gas.png"
+    },
+    {
+        "nombre":"Soplete",
+        "precio":"$ 15.000 pesos cop",
+        "img":"assets/img/encendedores/sopletes.png"
+    },
+    {
+        "nombre":"Daber para Wax",
+        "precio":"$ 6.000 pesos cop",
+        "img":"assets/img/otros/daber.png"
+    },
+    {
+        "nombre":"Contenedor para Wax",
+        "precio":"$ 4.000 pesos cop",
+        "img":"assets/img/otros/contenedor-wax.png"
+    },
+    {
+        "nombre":"Cenicero",
+        "precio":"$ 10.000 pesos cop",
+        "img":"assets/img/otros/ceniceros.png"
+    },
+    {
+        "nombre":"Combo raw",
+        "precio":"$ 27.000 pesos cop",
+        "img":"assets/img/combo/combo-raw.jpg"
     }
     
     
