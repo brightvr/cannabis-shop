@@ -143,10 +143,30 @@
         "nombre":"Bong vidrio A2",
         "precio":"$ 20.000 pesos cop",
         "img":"assets/img/bong/vidriobotellagruesa-fondoblanco.jpg"
+    }, 
+    {
+        "nombre":"Pipa Wax y Herbal",
+        "precio":"$ 16.000 pesos cop",
+        "img":"assets/img/pipa/P-Wax-y-Herbal.png"
+    },
+    {
+        "nombre":"Pipa Clarinete",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/pipa-clarinete.png"
+    },
+    {
+        "nombre":"Pipa Rick",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/pipa-rick.png"
+    },
+    {
+        "nombre":"Pipa Pepino",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/pipa-pepino.png"
     },
     {
         "nombre":"Pipa bala",
-        "precio":"$ 7.500 pesos cop",
+        "precio":"$ 7.000 pesos cop",
         "img":"assets/img/pipa/bala-fondoblanco.jpg"
     },
     {
@@ -156,53 +176,73 @@
     },
     {
         "nombre":"Pipa groot",
-        "precio":"$ 6.000 pesos cop",
+        "precio":"$ 7.000 pesos cop",
         "img":"assets/img/pipa/groot-fondoblanco.jpg"
     },
     {
-        "nombre":"Pipa Instrumento A1",
-        "precio":"$ 8.000 pesos cop",
-        "img":"assets/img/pipa/instrumentolisa-fondoblanco.jpg"
-    },
-    {
         "nombre":"Pipa Labial",
-        "precio":"$ 10.500 pesos cop",
+        "precio":"$ 10.000 pesos cop",
         "img":"assets/img/pipa/labial-fondoblanco.jpg"
     },
     {
-        "nombre":"Pipa Pepino",
-        "precio":"$ 6.000 pesos cop",
-        "img":"assets/img/pipa/pepino-fondoblanco.jpg"
-    },
-    {
-        "nombre":"Pipa bala",
-        "precio":"$ 12.000 pesos cop",
-        "img":"assets/img/pipa/pipahielo-fondoblanco.jpg"
-    },
-    {
-        "nombre":"Pipa Tawe",
+        "nombre":"Pipa Tague",
         "precio":"$ 8.000 pesos cop",
         "img":"assets/img/pipa/tawe-fondoblanco.jpg"
     },
     {
-        "nombre":"Pipa Totem",
-        "precio":"$ 2.500 pesos cop",
-        "img":"assets/img/pipa/totem-fondoblanco.jpg"
+        "nombre":"Pipa Wax ",
+        "precio":"$ 18.000 pesos cop",
+        "img":"assets/img/pipa/p-wax-grande.png"
     },
     {
-        "nombre":"Pipa Vidrio A1",
+        "nombre":"Pipa Plom",
+        "precio":"$ 18.000 pesos cop",
+        "img":"assets/img/pipa/pipa-plom.png"
+    },
+    {
+        "nombre":"Pipa Herbal",
+        "precio":"$ 10.000 pesos cop",
+        "img":"assets/img/pipa/pipa-herbal.png"
+    },
+    {
+        "nombre":"P. Saxofon Grande",
+        "precio":"$ 13.000 pesos cop",
+        "img":"assets/img/pipa/p-saxofon-grande.png"
+    },
+    {
+        "nombre":"P. Saxofon Pequeño",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/p-saxofon-pequeña.png"
+    },
+    {
+        "nombre":"Pipa Vidrio Lineas",
         "precio":"$ 10.000 pesos cop",
         "img":"assets/img/pipa/vidriodelgada-fondoblanco.jpg"
     },
     {
-        "nombre":"Pipa Vidrio A2",
-        "precio":"$ 12.000 pesos cop",
-        "img":"assets/img/pipa/vidriogruesa-fondoblanco.jpg"
+        "nombre":"Pipa Goma Lisa",
+        "precio":"$ 11.000 pesos cop",
+        "img":"assets/img/pipa/p-forro-lisa.png"
     },
     {
-        "nombre":"Pipa bala",
-        "precio":"$ 16.000 pesos cop",
-        "img":"assets/img/pipa/waxgrande-fondoblanco.jpg"
+        "nombre":"Pipa Wax Buruja",
+        "precio":"$ 8.000 pesos cop",
+        "img":"assets/img/pipa/p-wax-burbuja.png"
+    },
+    {
+        "nombre":"Pipa Wax Lisa",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/p-wax-lisa.png"
+    },
+    {
+        "nombre":"Pipa Resina",
+        "precio":"$ 2.800 pesos cop",
+        "img":"assets/img/pipa/pipa-resina.png"
+    },
+    {
+        "nombre":"Pipa Vidrio Lunar",
+        "precio":"$ 12.000 pesos cop",
+        "img":"assets/img/pipa/vidriogruesa-fondoblanco.jpg"
     },
     {
         "nombre":"Clipper",
