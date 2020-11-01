@@ -4,37 +4,16 @@
         "precio":"$ 27.000 pesos cop",
         "img":"assets/img/combo/combo-raw.jpg"
     },
-    {
-        "nombre":"Clipper",
-        "precio":"$ 3.000 pesos cop",
-        "img":"assets/img/clipper.jpg"
-    },
-
-    {
-        "nombre":"Grinder militar",
-        "precio":"$ 28.000 pesos cop",
-        "img":"assets/img/grinder/grinder-militar-grande.jpg"
-    },
-    {
-        "nombre":"Bong de hielo",
-        "precio":"$ 26.000 pesos cop",
-        "img":"assets/img/bong/bonghielo-fondoblanco.jpg"
-    },
-    {
-        "nombre":"Bong Calavera plastico",
-        "precio":"$ 9.500 pesos cop",
-        "img":"assets/img/bong/calaveraplastico-fondoblanco.jpg"
-    },
-    {
-        "nombre":"Bong Calavera vidrio",
-        "precio":"$ 16.000 pesos cop",
-        "img":"assets/img/bong/calaveravidrio-fondoblanco.jpg"
-    },
     
     {
-        "nombre":"Grinder estampado 420",
-        "precio":"$ 25.000 pesos cop",
-        "img":"assets/img/grinder/420-fondoblanco.jpg"
+        "nombre":"G. Personal Bulldog",
+        "precio":"$ 18.000 pesos cop",
+        "img":"assets/img/grinder/g-dorado.png"
+    },
+    {
+        "nombre":"G. Barril Peligro",
+        "precio":"$ 15.000 pesos cop",
+        "img":"assets/img/grinder/g-peligro.png"
     },
     {
         "nombre":"Grinder calavera",
@@ -42,38 +21,30 @@
         "img":"assets/img/grinder/calavera-fondo-blanco1.jpg"
     },
     {
-        "nombre":"Grinder estampado personal",
+        "nombre":"G. Estampado Pequeño",
         "precio":"$ 18.000 pesos cop",
         "img":"assets/img/grinder/calaverarosaspequeño-fondoblanco.jpg"
     },
+
     {
-        "nombre":"Grinder estampado",
-        "precio":"$ 25.000 pesos cop",
-        "img":"assets/img/grinder/cannabis-fondoblanco.jpg"
-    },
-    {
-        "nombre":"Grinder Esfera A1",
+        "nombre":"Grinder Esfera",
         "precio":"$ 25.000 pesos cop",
         "img":"assets/img/grinder/esferagris-fondoblanco.jpg"
     },
     {
-        "nombre":"Grinder Esfera A2",
-        "precio":"$ 25.000 pesos cop",
-        "img":"assets/img/grinder/esferatornasol-fondoblanco.jpg"
+        "nombre":"Grinder 4/20",
+        "precio":"$ 15.000 pesos cop",
+        "img":"assets/img/grinder/g-amsterdam.png"
     },
+  
     {
-        "nombre":"Grinder estampado A1",
-        "precio":"$ 25.000 pesos cop",
-        "img":"assets/img/grinder/fondoblanco.jpg"
-    },
-    {
-        "nombre":"Granada Grande",
+        "nombre":"G. Granada Grande",
         "precio":"$ 20.000 pesos cop",
         "img":"assets/img/grinder/granada.jpg"
     },
     {
-        "nombre":" Granada pequeña",
-        "precio":"$ 17.500 pesos cop",
+        "nombre":"G. Granada pequeña",
+        "precio":"$ 15.000 pesos cop",
         "img":"assets/img/grinder/granada.jpg"
     },
     {
@@ -87,29 +58,76 @@
         "img":"assets/img/grinder/latanegra-fondoblanco.jpg"
     },
     {
+        "nombre":"Grinder Mini",
+        "precio":"$ 5.000 pesos cop",
+        "img":"assets/img/grinder/g.mini.png"
+    },
+    {
         "nombre":"Grinder Madera",
         "precio":"$ 27.000 pesos cop",
         "img":"assets/img/grinder/madera-fondoblanco.jpg"
     },
     {
-        "nombre":"Militar personal",
+        "nombre":"G. camuflado Pequeño",
         "precio":"$ 18.000 pesos cop",
         "img":"assets/img/grinder/militarpequeño-png1.png"
     },
     {
-        "nombre":"Grinder personal A1",
+        "nombre":"G. Negro Personal",
         "precio":"$ 18.000 pesos cop",
         "img":"assets/img/grinder/negrocalavera-fondoblanco.jpg"
     },
-    {
-        "nombre":"Grinder personal A2",
-        "precio":"$ 18.000 pesos cop",
-        "img":"assets/img/grinder/negrocatrina-fondoblanco.jpg"
-    },
+    
     {
         "nombre":"Grinder Plastico Big",
         "precio":"$ 10.000 pesos cop",
         "img":"assets/img/grinder/verdeplastico-fondoblanco.jpg"
+    },
+    {
+        "nombre":"G. Personal",
+        "precio":"$ 9.000 pesos cop",
+        "img":"assets/img/grinder/g-metal-mediano.png"
+    },
+    {
+        "nombre":"Grinder Estampado",
+        "precio":"$ 25.000 pesos cop",
+        "img":"assets/img/grinder/g-estampado.png"
+    },
+   
+    {
+        "nombre":"G. Camuflado Grande",
+        "precio":"$ 29.000 pesos cop",
+        "img":"assets/img/grinder/g-camuflado-grande.png"
+    },
+    {
+        "nombre":"Bong Color",
+        "precio":"$ 18.000 pesos cop",
+        "img":"assets/img/bong/b-color.png"
+    },
+    {
+        "nombre":"Bong de hielo",
+        "precio":"$ 25.000 pesos cop",
+        "img":"assets/img/bong/bonghielo-fondoblanco.jpg"
+    },
+    {
+        "nombre":"B. Vood Hielo",
+        "precio":"$ 13.000 pesos cop",
+        "img":"assets/img/bong/B-Vood-Hielo.png"
+    },
+    {
+        "nombre":"Bong Calavera plastico",
+        "precio":"$ 9.500 pesos cop",
+        "img":"assets/img/bong/calaveraplastico-fondoblanco.jpg"
+    },
+    {
+        "nombre":"Bong Calavera vidrio",
+        "precio":"$ 16.000 pesos cop",
+        "img":"assets/img/bong/calaveravidrio-fondoblanco.jpg"
+    },
+    {
+        "nombre":"B. Estampado Plastico",
+        "precio":"$ 15.000 pesos cop",
+        "img":"assets/img/bong/b-estampado-plastico.png"
     },
     {
         "nombre":"Bong tornasol",
@@ -118,13 +136,8 @@
     },
     {
         "nombre":"Bong vidrio A1",
-        "precio":"$ 20.000 pesos cop",
-        "img":"assets/img/bong/vidriobotella-fondoblanco.jpg"
-    },
-    {
-        "nombre":"Bong vidrio A2",
-        "precio":"$ 20.000 pesos cop",
-        "img":"assets/img/bong/vidriobotellagruesa-fondoblanco.jpg"
+        "precio":"$ 18.000 pesos cop",
+        "img":"assets/img/bong/b-cajaverde.png"
     },
     {
         "nombre":"Bong vidrio A2",
@@ -190,6 +203,11 @@
         "nombre":"Pipa bala",
         "precio":"$ 16.000 pesos cop",
         "img":"assets/img/pipa/waxgrande-fondoblanco.jpg"
+    },
+    {
+        "nombre":"Clipper",
+        "precio":"$ 3.000 pesos cop",
+        "img":"assets/img/clipper.jpg"
     }
     
     
