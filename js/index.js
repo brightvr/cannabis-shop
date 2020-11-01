@@ -35,7 +35,7 @@ $(window).on('load',function(){
     .then(res=>res.json())
     .then(data=>{
 
-      console.log(data);
+      //console.log(data);
         for(let i=0; i<data.length;i++){
 
             $('.contenedor-productos').append(`
@@ -509,7 +509,7 @@ $(window).on('load',function(){
 
 
             let identificador=e.target.parentElement.nextElementSibling.nextElementSibling.nextElementSibling.nextElementSibling.nextElementSibling.childNodes[2].parentElement.textContent;
-           console.log(identificador.trim());
+           //console.log(identificador.trim());
            
 
 
@@ -517,7 +517,7 @@ $(window).on('load',function(){
                
 
             if(identificador.trim()==data[h].nombre.trim()){
-              console.log('bbddd: ',data[h].nombre)
+              //console.log('bbddd: ',data[h].nombre)
 
                 $('.new-page').append(`
 
