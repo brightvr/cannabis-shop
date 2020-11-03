@@ -328,7 +328,7 @@
     {
         "nombre":"Benzina para Zippo",
         "precio":"$ 14.000 pesos cop",
-        "img":"assets/img/encendedores/Benzina.png"
+        "img":"assets/img/encendedores/benzina.png"
     },
     {
         "nombre":"Clipper",
@@ -337,7 +337,7 @@
     },
     {
         "nombre":"Gas para Clipper",
-        "precio":"$ 3.000 pesos cop",
+        "precio":"$ 15.000 pesos cop",
         "img":"assets/img/encendedores/gas.png"
     },
     {
