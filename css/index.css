@@ -22,8 +22,8 @@ body{
     color: rgb(255, 255, 255);
     font-size: 50px;
 }
-.icono-cerrar{
-    font-size: 45px;
+.icono-cerrar, .cerrar-promocion{
+    font-size: 40px;
     color: red;
 }
 
@@ -58,6 +58,13 @@ body{
     background: white;
     width: 100%;
     z-index:9999;
+}
+
+.promo{
+    width: 90%;
+    margin-left: 3%;
+    position: absolute;
+    z-index: 9999;
 }
 
 

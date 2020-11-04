@@ -1,33 +1,5 @@
 $(window).on('load',function(){
 
-    let tamaño_pantalla;
-    let print_draw;
-
-
-
-
-    const Width_screen=()=>{
-
-       tamaño_pantalla= $(window).width();
-
-       
-    if(tamaño_pantalla>770){
-
-        print_draw=tienda_lapto;
-
-        
-    }else{
-        print_draw=tienda_phone
-    }
-
-    console.log('ok');
-    $('.tienda-cannabis-shop').remove();
-    $('.card-principal').append(print_draw);
-
-    }
-
-    Width_screen();
-    setInterval(Width_screen,2500);
 
 
 
@@ -471,6 +443,7 @@ $(window).on('load',function(){
                 </div>
                 <ul class="list-group list-group-flush">
                 <li class="list-group-item"><strong>Pagos: </strong> Contraentrega, trasnferencia PSE, tarjetas debito y cedito, efecty, baloto, nequi o daviplata</li>
+                <li class="list-group-item"><strong>Especificaciones: </strong> Habla con uno de nuestros asesores para saber mas sobre este producto, toda la atencion es 100% personalizada</li>
                   <li class="list-group-item"><strong>Precio:</strong> ${data[0].precio}</li>
                   <li class="list-group-item"><strong>Moneda :</strong> pesos cop</li>
                   <li class="list-group-item"><strong>Hablar con asesor :</strong> Nuestros asesores te guiaran para realizar tu compra protegida, de manera sencilla y personalizada</li>
@@ -537,6 +510,7 @@ $(window).on('load',function(){
                      <li class="list-group-item"><strong>Pagos: </strong> Contraentrega, trasnferencia PSE, tarjetas debito y cedito, efecty, baloto, nequi o daviplata</li>
                        <li class="list-group-item"><strong>Precio:</strong> ${data[h].precio}</li>
                        <li class="list-group-item"><strong>Moneda :</strong> pesos cop</li>
+                       <li class="list-group-item"><strong>Especificaciones: </strong> Habla con uno de nuestros asesores para saber mas sobre este producto, toda la atencion es 100% personalizada</li>
                        <li class="list-group-item"><strong>Hablar con asesor :</strong> Nuestros asesores te guiaran para realizar tu compra protegida, de manera sencilla y personalizada</li>
                      </ul>
                      <div class="card-body d-block">
@@ -578,5 +552,10 @@ $(window).on('load',function(){
     }); //end fetch
 
 
+
+    $('.cerrar-promocion').on('click',function(){
+
+      $('.promo').remove();
+    })
 
 });

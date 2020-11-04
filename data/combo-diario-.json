@@ -1,7 +1,8 @@
 [
     {
-        "nombre":"Combo Raw",
-        "precio":"$ 27.000 pesos cop",
-        "img":"assets/img/combo-diario/combo-raw.jpg"
+        "nombre":"Combo Personal",
+        "precio":"$ 12.000 pesos cop",
+        "img":"assets/img/combo-diario/combo-personal.jpg",
+        "caso":" Promoción"
     }
 ]
