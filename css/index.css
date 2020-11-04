@@ -65,6 +65,8 @@ body{
     margin-left: 3%;
     position: absolute;
     z-index: 9999;
+    height: 250px;
+    overflow-y: scroll;
 }
 
 
