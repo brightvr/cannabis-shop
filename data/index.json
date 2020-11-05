@@ -20,6 +20,11 @@
         "img":"assets/img/grinder/calavera-fondo-blanco1.jpg"
     },
     {
+        "nombre":"Grinder Tarjeta",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/grinder/g-tarjeta.png"
+    },
+    {
         "nombre":"G. Estampado Pequeño",
         "precio":"$ 18.000 pesos cop",
         "img":"assets/img/grinder/calaverarosaspequeño-fondoblanco.jpg"
@@ -112,7 +117,7 @@
     },
     {
         "nombre":"Bong Calavera plastico",
-        "precio":"$ 9.500 pesos cop",
+        "precio":"$ 9.000 pesos cop",
         "img":"assets/img/bong/calaveraplastico-fondoblanco.jpg"
     },
     {
@@ -141,6 +146,11 @@
         "img":"assets/img/bong/vidriobotellagruesa-fondoblanco.jpg"
     }, 
     {
+        "nombre":"Bong vidrio Azul",
+        "precio":"$ 15.000 pesos cop",
+        "img":"assets/img/bong/b-azulvidrio.png"
+    }, 
+    {
         "nombre":"Pipa Wax y Herbal",
         "precio":"$ 16.000 pesos cop",
         "img":"assets/img/pipa/P-Wax-y-Herbal.png"
@@ -161,9 +171,19 @@
         "img":"assets/img/pipa/pipa-pepino.png"
     },
     {
+        "nombre":"Pipa Vidrio Curvas",
+        "precio":"$ 22.000 pesos cop",
+        "img":"assets/img/pipa/p-curvavidrio.png"
+    },
+    {
         "nombre":"Pipa bala",
         "precio":"$ 7.000 pesos cop",
         "img":"assets/img/pipa/bala-fondoblanco.jpg"
+    },
+    {
+        "nombre":"Pipa bala calavera",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/p-bala-calavera.png"
     },
     {
         "nombre":"Pipa forro vidrio",
@@ -214,6 +234,21 @@
         "nombre":"Pipa Vidrio Lineas",
         "precio":"$ 10.000 pesos cop",
         "img":"assets/img/pipa/vidriodelgada-fondoblanco.jpg"
+    },
+    {
+        "nombre":"Pipa Vidrio lisa",
+        "precio":"$ 2.500. pesos cop",
+        "img":"assets/img/pipa/p-vidrio-lisa.png"
+    },
+    {
+        "nombre":"P. Boquilla pequeña",
+        "precio":"$ 6.000. pesos cop",
+        "img":"assets/img/pipa/p-boquilla-pequeña.png"
+    },
+    {
+        "nombre":"P. Metal",
+        "precio":"$ 9.000. pesos cop",
+        "img":"assets/img/pipa/p-metal.png"
     },
     {
         "nombre":"Pipa Goma Lisa",
@@ -281,14 +316,29 @@
         "img":"assets/img/cueros/cueros-ocb.png"
     },
     {
+        "nombre":"Cueros OCB #7",
+        "precio":"$ 2.000 pesos cop",
+        "img":"assets/img/cueros/c-ocb7.png"
+    },
+    {
         "nombre":"Cueros Clipper #12",
         "precio":"$ 7.000 pesos cop",
         "img":"assets/img/cueros/cueros-clipper.png"
     },
     {
+        "nombre":"C.Clipper delgados #12",
+        "precio":"$ 6.500 pesos cop",
+        "img":"assets/img/cueros/cueros-clipper-delgados.png"
+    },
+    {
         "nombre":"Cueros Candy",
         "precio":"$ 10.000 pesos cop",
         "img":"assets/img/cueros/cueros-candy.png"
+    },
+    {
+        "nombre":"Cueros Zig Zag #9",
+        "precio":"$ 2.000 pesos cop",
+        "img":"assets/img/cueros/c-zig-zag.png"
     },
     {
         "nombre":"Filtros Raw",
@@ -359,6 +409,11 @@
         "nombre":"Cenicero",
         "precio":"$ 10.000 pesos cop",
         "img":"assets/img/otros/ceniceros.png"
+    },
+    {
+        "nombre":"Contenedor",
+        "precio":"$ 8.000 pesos cop",
+        "img":"assets/img/otros/contenedor.png"
     },
     {
         "nombre":"Combo raw",
