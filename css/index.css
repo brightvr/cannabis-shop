@@ -30,6 +30,7 @@ body{
 
 .producto-catalogo{
     box-shadow: 10px 10px 6px rgb(29, 29, 29);
+    cursor: pointer;
 }
 .page-two{
 
