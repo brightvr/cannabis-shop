@@ -1,0 +1,62 @@
+[
+    {
+        "nombre":"Bong Color",
+        "precio":"$ 18.000 pesos cop",
+        "img":"assets/img/bong/b-color.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Bong de hielo",
+        "precio":"$ 25.000 pesos cop",
+        "img":"assets/img/bong/bonghielo-fondoblanco.jpg",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"B. Vood Hielo",
+        "precio":"$ 13.000 pesos cop",
+        "img":"assets/img/bong/B-Vood-Hielo.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Bong Calavera plastico",
+        "precio":"$ 9.000 pesos cop",
+        "img":"assets/img/bong/calaveraplastico-fondoblanco.jpg",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Bong Calavera vidrio",
+        "precio":"$ 16.000 pesos cop",
+        "img":"assets/img/bong/calaveravidrio-fondoblanco.jpg",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"B. Estampado Plastico",
+        "precio":"$ 15.000 pesos cop",
+        "img":"assets/img/bong/b-estampado-plastico.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Bong tornasol",
+        "precio":"$ 12.000 pesos cop",
+        "img":"assets/img/bong/bongtornasol-fondoblanco.jpg",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Bong vidrio A1",
+        "precio":"$ 18.000 pesos cop",
+        "img":"assets/img/bong/b-cajaverde.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Bong vidrio A2",
+        "precio":"$ 20.000 pesos cop",
+        "img":"assets/img/bong/vidriobotellagruesa-fondoblanco.jpg",
+        "mercadoLibre":""
+    }, 
+    {
+        "nombre":"Bong vidrio Azul",
+        "precio":"$ 15.000 pesos cop",
+        "img":"assets/img/bong/b-azulvidrio.png",
+        "mercadoLibre":""
+    }
+]

@@ -1,5 +1,11 @@
 [
     {
+        "nombre":"Combo raw",
+        "precio":"$ 27.000 pesos cop",
+        "img":"assets/img/combo/combo-raw.jpg",
+        "mercadoLibre":""
+    },
+    {
         "nombre":"Combo Personal",
         "precio":"$ 16.000 pesos cop",
         "img":"assets/img/combo-diario/combo-personal.jpg",

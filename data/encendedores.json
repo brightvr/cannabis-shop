@@ -1,0 +1,38 @@
+[
+    {
+        "nombre":"Encendedor de Plasma",
+        "precio":"$ 55.000 pesos cop",
+        "img":"assets/img/encendedores/encendedor-plasma.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Zippo",
+        "precio":"$ 12.000 pesos cop",
+        "img":"assets/img/encendedores/zippos.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Benzina para Zippo",
+        "precio":"$ 14.000 pesos cop",
+        "img":"assets/img/encendedores/benzina.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Clipper",
+        "precio":"$ 3.000 pesos cop",
+        "img":"assets/img/encendedores/clipper.jpg",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Gas para Clipper",
+        "precio":"$ 15.000 pesos cop",
+        "img":"assets/img/encendedores/gas.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Soplete",
+        "precio":"$ 15.000 pesos cop",
+        "img":"assets/img/encendedores/sopletes.png",
+        "mercadoLibre":""
+    }
+]
