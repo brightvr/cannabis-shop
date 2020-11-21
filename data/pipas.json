@@ -1,0 +1,152 @@
+[
+    {
+        "nombre":"Pipa Wax y Herbal",
+        "precio":"$ 16.000 pesos cop",
+        "img":"assets/img/pipa/P-Wax-y-Herbal.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa Clarinete",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/pipa-clarinete.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa Rick",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/pipa-rick.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa Pepino",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/pipa-pepino.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa Vidrio Curvas",
+        "precio":"$ 22.000 pesos cop",
+        "img":"assets/img/pipa/p-curvavidrio.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa bala",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/bala-fondoblanco.jpg",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa bala calavera",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/p-bala-calavera.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa forro vidrio",
+        "precio":"$ 11.000 pesos cop",
+        "img":"assets/img/pipa/forro-fondoblanco.jpg",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa groot",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/groot-fondoblanco.jpg",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa Labial",
+        "precio":"$ 10.000 pesos cop",
+        "img":"assets/img/pipa/labial-fondoblanco.jpg",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa Tague",
+        "precio":"$ 8.000 pesos cop",
+        "img":"assets/img/pipa/tawe-fondoblanco.jpg",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa Wax",
+        "precio":"$ 18.000 pesos cop",
+        "img":"assets/img/pipa/p-wax-grande.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa Plom",
+        "precio":"$ 18.000 pesos cop",
+        "img":"assets/img/pipa/pipa-plom.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa Herbal",
+        "precio":"$ 10.000 pesos cop",
+        "img":"assets/img/pipa/pipa-herbal.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"P. Saxofon Grande",
+        "precio":"$ 13.000 pesos cop",
+        "img":"assets/img/pipa/p-saxofon-grande.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"P. Saxofon Pequeño",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/p-saxofon-pequeña.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa Vidrio Lineas",
+        "precio":"$ 10.000 pesos cop",
+        "img":"assets/img/pipa/vidriodelgada-fondoblanco.jpg",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa Vidrio lisa",
+        "precio":"$ 2.500. pesos cop",
+        "img":"assets/img/pipa/p-vidrio-lisa.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"P. Boquilla pequeña",
+        "precio":"$ 6.000. pesos cop",
+        "img":"assets/img/pipa/p-boquilla-pequeña.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"P. Metal",
+        "precio":"$ 9.000. pesos cop",
+        "img":"assets/img/pipa/p-metal.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa Goma Lisa",
+        "precio":"$ 11.000 pesos cop",
+        "img":"assets/img/pipa/p-forro-lisa.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa Wax Burbuja",
+        "precio":"$ 8.000 pesos cop",
+        "img":"assets/img/pipa/p-wax-burbuja.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa Wax Lisa",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/p-wax-lisa.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa Resina",
+        "precio":"$ 2.800 pesos cop",
+        "img":"assets/img/pipa/pipa-resina.png",
+        "mercadoLibre":""
+    },
+    {
+        "nombre":"Pipa Vidrio Lunar",
+        "precio":"$ 12.000 pesos cop",
+        "img":"assets/img/pipa/vidriogruesa-fondoblanco.jpg",
+        "mercadoLibre":""
+    }
+]

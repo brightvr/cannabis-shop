@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo</title>
+
+    <link rel="stylesheet" href="librerias/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="librerias/icons/css/all.css">
+    <link rel="stylesheet" href="css/catalogo.css">
+
+</head>
+<body>
+
+  <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+  <script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        xfbml            : true,
+        version          : 'v8.0'
+      });
+    };
+
+    (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+  <!-- Your Chat Plugin code -->
+  <div class="fb-customerchat"
+    attribution=setup_tool
+    page_id="109591277515881"
+theme_color="#67b868"
+logged_in_greeting="Hola! somos Cannabis shop ¿En que podemos ayudarte?"
+logged_out_greeting="Hola! somos Cannabis shop ¿En que podemos ayudarte?">
+  </div>
+    
+<div class="new-page">
+
+
+</div>
+
+
+
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-success">
+        <a class="navbar-brand" href="#"><img class="logo" src="assets/img/logo-cannabis-shop.png" alt=""></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item ml-5  mr-5">
+              <a class="nav-link" href="index.html"><h3>Inicio</h3></a>
+            </li>
+            <li class="nav-item active ml-5 mr-5">
+              <a class="nav-link" href="catalogo.html"><h3>Catálogo</h3></a>
+            </li>
+            <li class="nav-item  ml-5 mr-5">
+              <a class="nav-link" href="cultura.html"><h3>Cultura</h3></a>
+            </li>
+            <li class="nav-item ml-5 mr-5">
+              <a class="nav-link" href="#"><h3>Compra protegida</h3></a>
+            </li>
+          </ul>
+        
+        </div>
+      </nav>
+
+
+      
+
+      <br>
+      <hr>
+      <br>
+
+
+      <div class="alert alert-success promo d-none">
+
+        <span class="cerrar-promocion cerrar-promocion"><i class="fas fa-window-close"></i></span><br>
+        <h4><strong>!!Promoción!!</strong></h4><br>
+        <h5> Solo por hoy <strong>miercoles 4/11/2020</strong>  "Combo personal"</h5><br>
+          <h5><strong> Incluye:</strong> Kit cueros y filtros marca clipper <strong> +</strong> clipper  <strong> +</strong> grinder tarjeta</h5><br>
+          <h5><strong>Precio normal:</strong>$ 16.000</h5><br>
+          <h5><strong>Precio promoción :</strong>$ 12.000</h5><br>
+        <h6>Valido por 24 horas a partir de la 1:00 p.m. </h6><br>
+        <h6>Envio no incluido en la promoción</h6><br>
+        
+        <br>
+        </div>
+        <br>
+        
+
+
+    
+
+      <div class="container">
+
+        <div class="do-click">
+        <div class="card-principal">
+        </div>
+      </div>
+
+        <br>
+        <hr>
+        <br>
+
+        <div class="titulo">
+            <div class="alert alert-success d-flex justify-content-center "><h1>Catálogo</h1></div>
+        </div>
+
+        <!--<div class="cont-buscador">
+
+            <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="search" placeholder="Buscar producto" aria-label="Buscar producto">
+                <button class="btn btn-success my-2 my-sm-0" type="submit">Buscar producto</button>
+              </form>
+        </div>-->
+
+
+        <br>
+        <div class="categorias ">
+          <hr>
+          <div class="alert alert-warning">
+            <h5>Categorias</h5>
+          <a href="catalogo.html#all" class="btn btn-outline-success m-2">Ver todo</a>
+          <a href="catalogo.html#pipas" class="btn btn-outline-success m-2">Pipas</a>
+          <a href="catalogo.html#grinder"  class="btn btn-outline-success m-2">Grinders</a>
+          <a href="catalogo.html#cueros" class="btn btn-outline-success m-2">Cueros</a>
+          <a href="catalogo.html#encendedores" class="btn btn-outline-success m-2">Encendedores</a>
+          <a href="catalogo.html#bongs" class="btn btn-outline-success m-2">Bongs</a>
+          <a href="catalogo.html#combos" class="btn btn-outline-success m-2">Combos</a>
+          <a href="catalogo.html#otros" class="btn btn-outline-success m-2">Otros</a>
+        </div>
+          <hr>
+        
+        </div>
+        <div class="contenedor-productos d-flex flex-wrap justify-content-center">
+
+          
+        </div>
+      </div>
+      
+      <br>
+      <br>
+      <br>
+      <br>
+    <script src="librerias/jquery/jquery-3.5.1.js"></script>
+    <script src="librerias/bootstrap/js/bootstrap.min.js"></script>
+    <script src="librerias/icons/js/all.js"></script>
+    <script src="js/dibujosCatalogo.js"></script>
+    <script src="js/catalogo1.js"></script>
+</body>
+</html>

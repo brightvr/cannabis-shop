@@ -1,0 +1,17 @@
+[
+    {
+        "portada":"assets/img/libro1.PNG",
+        "titulo":"Uso medico del cannaabis y los cannabinoides",
+        "link":"https://www.emcdda.europa.eu/system/files/publications/10171/20185584_TD0618186ESN_PDF.pdf"
+    },
+    {
+        "portada":"assets/img/libro2.PNG",
+        "titulo":"Cannabis medicinal ¿Qué esta en juego?",
+        "link":"http://www.oei.org.co/uploads/files/microsites/31/155/cannabis-medicinal.pdf"
+    },
+    {
+        "portada":"assets/img/libro3.PNG",
+        "titulo":"La marihuana como medicina",
+        "link":"https://d14rmgtrwzf5a.cloudfront.net/sites/default/files/drugfacts-medicalmarijuana-spanish.pdf"
+    }
+]
