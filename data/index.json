@@ -149,6 +149,11 @@
         "nombre":"Bong vidrio Azul",
         "precio":"$ 15.000 pesos cop",
         "img":"assets/img/bong/b-azulvidrio.png"
+    },
+    {
+        "nombre":"Pipa Herbal",
+        "precio":"$ 10.000 pesos cop",
+        "img":"assets/img/pipa/pipa-herbal.png"
     }, 
     {
         "nombre":"Pipa Wax y Herbal",
@@ -156,15 +161,67 @@
         "img":"assets/img/pipa/P-Wax-y-Herbal.png"
     },
     {
+        "nombre":"Pipa Tague",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/tawe-fondoblanco.jpg"
+    },
+    {
+        "nombre":"Pipa forro vidrio",
+        "precio":"$ 11.000 pesos cop",
+        "img":"assets/img/pipa/forro-fondoblanco.jpg"
+    },
+    {
+        "nombre":"Pipa Totem resina",
+        "precio":"$ 2.800 pesos cop",
+        "img":"assets/img/pipa/pipa-totem.png"
+    },
+    {
+        "nombre":"Pipa Superheroes",
+        "precio":"$ 2.800 pesos cop",
+        "img":"assets/img/pipa/superheroes.png"
+    },
+    {
         "nombre":"Pipa Clarinete",
         "precio":"$ 7.000 pesos cop",
         "img":"assets/img/pipa/pipa-clarinete.png"
     },
     {
-        "nombre":"Pipa Rick",
+        "nombre":"P. Saxofon Pequeño",
         "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/p-saxofon-pequeña.png"
+    },
+    {
+        "nombre":"P. Saxofon Grande",
+        "precio":"$ 13.000 pesos cop",
+        "img":"assets/img/pipa/p-saxofon-grande.png"
+    },
+    {
+        "nombre":"Pipa Labial",
+        "precio":"$ 10.000 pesos cop",
+        "img":"assets/img/pipa/labial-fondoblanco.jpg"
+    },
+    {
+        "nombre":"Pipa Metal Bate",
+        "precio":"$ 7.000. pesos cop",
+        "img":"assets/img/pipa/metal-bate.png"
+    },
+    {
+        "nombre":"Pipa Metal Pequeña",
+        "precio":"$ 5.000. pesos cop",
+        "img":"assets/img/pipa/metal-pequeña.png"
+    },
+    {
+        "nombre":"Pipa Rick",
+        "precio":"$ 6.000 pesos cop",
         "img":"assets/img/pipa/pipa-rick.png"
     },
+
+
+
+
+
+
+    
     {
         "nombre":"Pipa Pepino",
         "precio":"$ 7.000 pesos cop",
@@ -185,26 +242,14 @@
         "precio":"$ 7.000 pesos cop",
         "img":"assets/img/pipa/p-bala-calavera.png"
     },
-    {
-        "nombre":"Pipa forro vidrio",
-        "precio":"$ 11.000 pesos cop",
-        "img":"assets/img/pipa/forro-fondoblanco.jpg"
-    },
+    
     {
         "nombre":"Pipa groot",
         "precio":"$ 7.000 pesos cop",
         "img":"assets/img/pipa/groot-fondoblanco.jpg"
     },
-    {
-        "nombre":"Pipa Labial",
-        "precio":"$ 10.000 pesos cop",
-        "img":"assets/img/pipa/labial-fondoblanco.jpg"
-    },
-    {
-        "nombre":"Pipa Tague",
-        "precio":"$ 8.000 pesos cop",
-        "img":"assets/img/pipa/tawe-fondoblanco.jpg"
-    },
+    
+    
     {
         "nombre":"Pipa Wax",
         "precio":"$ 18.000 pesos cop",
@@ -215,21 +260,9 @@
         "precio":"$ 18.000 pesos cop",
         "img":"assets/img/pipa/pipa-plom.png"
     },
-    {
-        "nombre":"Pipa Herbal",
-        "precio":"$ 10.000 pesos cop",
-        "img":"assets/img/pipa/pipa-herbal.png"
-    },
-    {
-        "nombre":"P. Saxofon Grande",
-        "precio":"$ 13.000 pesos cop",
-        "img":"assets/img/pipa/p-saxofon-grande.png"
-    },
-    {
-        "nombre":"P. Saxofon Pequeño",
-        "precio":"$ 7.000 pesos cop",
-        "img":"assets/img/pipa/p-saxofon-pequeña.png"
-    },
+    
+   
+    
     {
         "nombre":"Pipa Vidrio Lineas",
         "precio":"$ 10.000 pesos cop",
@@ -245,11 +278,7 @@
         "precio":"$ 6.000. pesos cop",
         "img":"assets/img/pipa/p-boquilla-pequeña.png"
     },
-    {
-        "nombre":"P. Metal",
-        "precio":"$ 9.000. pesos cop",
-        "img":"assets/img/pipa/p-metal.png"
-    },
+   
     {
         "nombre":"Pipa Goma Lisa",
         "precio":"$ 11.000 pesos cop",
@@ -265,11 +294,7 @@
         "precio":"$ 7.000 pesos cop",
         "img":"assets/img/pipa/p-wax-lisa.png"
     },
-    {
-        "nombre":"Pipa Resina",
-        "precio":"$ 2.800 pesos cop",
-        "img":"assets/img/pipa/pipa-resina.png"
-    },
+    
     {
         "nombre":"Pipa Vidrio Lunar",
         "precio":"$ 12.000 pesos cop",
