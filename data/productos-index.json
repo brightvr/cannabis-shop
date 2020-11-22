@@ -2,27 +2,32 @@
     {
         "titulo":"Bongs",
         "descripcion":"Encuentra los mejores bongs en vidrio y acrilico",
-        "imagen":"assets/img/bong/B-Vood-Hielo.png"
+        "imagen":"assets/img/bong/B-Vood-Hielo.png",
+        "tipo":"#bongs"
     },
     {
         "titulo":"Pipas",
         "descripcion":"Estamos en temporada de descuento en pipas usa el codigo <strong>P1PA5</strong> con nuestros asesores y ellos te haran un descuento especial",
-        "imagen":"assets/img/pipa/p-curvavidrio.png"
+        "imagen":"assets/img/pipa/p-curvavidrio.png",
+        "tipo":"#pipas"
     },
     {
         "titulo":"Grinders",
         "descripcion":"Disfruta de la gran diversidad de grinders que tenemos para ofrecerte",
-        "imagen":"assets/img/grinder/madera-fondoblanco.jpg"
+        "imagen":"assets/img/grinder/madera-fondoblanco.jpg",
+        "tipo":"#grinder"
     },
     {
         "titulo":"Cueros",
         "descripcion":"Las mejores marcas en papel para liar porros",
-        "imagen":"assets/img/cueros/raw-organic.png"
+        "imagen":"assets/img/cueros/raw-organic.png",
+        "tipo":"#cueros"
     },
     {
         "titulo":"Encendedores",
         "descripcion":"Encuentre aquí los encendedores de coleccion, clippers, zippos y mucho más...",
-        "imagen":"assets/img/encendedores/zippos.png"
+        "imagen":"assets/img/encendedores/zippos.png",
+        "tipo":"encendedores"
     }
     
 ]

@@ -29,7 +29,7 @@ phone
             <div class="card-body">
               <h4 class="card-title">${data[i].titulo}</h4>
               <p class="card-text">${data[i].descripcion}</p>
-              <a href="catalogo.html" class="btn btn-success btn-block"><h5>Ver más</h5></a>
+              <a href="catalogo.html${data[i].tipo}" class="btn btn-success btn-block"><h5>Ver más</h5></a>
             </div>
           </div>
             
