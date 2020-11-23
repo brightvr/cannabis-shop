@@ -198,7 +198,7 @@
         "nombre":"Pipa Tague",
         "precio":"$ 7.000 pesos cop",
         "img":"assets/img/pipa/tawe-fondoblanco.jpg",
-        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-582150677-trio-de-pipas-tague-_JM"
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595375962-pipa-tague-de-madera-_JM"
     },
     {
         "nombre":"Pipa forro vidrio",
@@ -296,84 +296,87 @@
         "img":"assets/img/pipa/cisne.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595653722-pipa-cisne-pequena-de-vidrio-_JM"
     },
-    
     {
-        "nombre":"Pipa Pepino",
-        "precio":"$ 7.000 pesos cop",
-        "img":"assets/img/pipa/pipa-pepino.png",
-        "mercadoLibre":""
-    },
-   
-    {
-        "nombre":"Pipa bala",
-        "precio":"$ 7.000 pesos cop",
-        "img":"assets/img/pipa/bala-fondoblanco.jpg",
-        "mercadoLibre":""
-    },
-    {
-        "nombre":"Pipa bala calavera",
-        "precio":"$ 7.000 pesos cop",
-        "img":"assets/img/pipa/p-bala-calavera.png",
-        "mercadoLibre":""
-    },
-    {
-        "nombre":"Pipa forro vidrio",
-        "precio":"$ 11.000 pesos cop",
-        "img":"assets/img/pipa/forro-fondoblanco.jpg",
-        "mercadoLibre":""
-    },
-    {
-        "nombre":"Pipa groot",
-        "precio":"$ 7.000 pesos cop",
-        "img":"assets/img/pipa/groot-fondoblanco.jpg",
-        "mercadoLibre":""
+        "nombre":"Pipa Wax Burbuja",
+        "precio":"$ 8.000 pesos cop",
+        "img":"assets/img/pipa/p-wax-burbuja.png",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595659986-pipa-para-wax-burbuja-_JM"
     },
     {
         "nombre":"Pipa Wax",
         "precio":"$ 18.000 pesos cop",
         "img":"assets/img/pipa/p-wax-grande.png",
-        "mercadoLibre":""
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-587956426-pipa-para-wax-_JM"
+    },
+    {
+        "nombre":"Pipa bala calavera",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/p-bala-calavera.png",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595662749-pipa-bala-en-metal-con-calaveras-dorada-_JM"
+    },
+    {
+        "nombre":"Pipa bala",
+        "precio":"$ 7.000 pesos cop",
+        "img":"assets/img/pipa/bala-fondoblanco.jpg",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-583557990-pipa-bala-dorada-_JM"
     },
     {
         "nombre":"Pipa Plom",
         "precio":"$ 18.000 pesos cop",
         "img":"assets/img/pipa/pipa-plom.png",
-        "mercadoLibre":""
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595663627-pipa-en-vidrio-y-resorte-guarda-plom-_JM"
     },
-    
+    {
+        "nombre":"P. Wax Burbuja Azul",
+        "precio":"$ 8.000 pesos cop",
+        "img":"assets/img/pipa/wax-burbuja-azul.png",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595664418-pipa-wax-burbuja-azul-_JM"
+    },
+    {
+        "nombre":"Pipa Wax Larga",
+        "precio":"$ 8.000 pesos cop",
+        "img":"assets/img/pipa/wax-larga.png",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595684187-pipa-wax-larga-_JM"
+    },
+    {
+        "nombre":"Pipa Pepino",
+        "precio":"$ .000 pesos cop",
+        "img":"assets/img/pipa/pipa-pepino.png",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595684998-pipa-pepino-rick-resina-_JM"
+    },
+    {
+        "nombre":"Pipa groot",
+        "precio":"$ 6.000 pesos cop",
+        "img":"assets/img/pipa/groot-fondoblanco.jpg",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595685365-pipa-groot-resina-_JM"
+    },
     {
         "nombre":"Pipa Vidrio lisa",
-        "precio":"$ 2.500. pesos cop",
+        "precio":"$ 3.000. pesos cop",
         "img":"assets/img/pipa/p-vidrio-lisa.png",
-        "mercadoLibre":""
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595685778-pipa-de-vidrio-lisa-_JM"
     },
-    
-   
     {
         "nombre":"Pipa Goma Lisa",
         "precio":"$ 11.000 pesos cop",
         "img":"assets/img/pipa/p-forro-lisa.png",
-        "mercadoLibre":""
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595686167-pipa-de-vidrio-con-forro-de-goma-lisa-_JM"
     },
     {
-        "nombre":"Pipa Wax Burbuja",
-        "precio":"$ 8.000 pesos cop",
-        "img":"assets/img/pipa/p-wax-burbuja.png",
-        "mercadoLibre":""
-    },
-    {
-        "nombre":"Pipa Wax Lisa",
+        "nombre":"Pipa Wax Gotero",
         "precio":"$ 7.000 pesos cop",
         "img":"assets/img/pipa/p-wax-lisa.png",
-        "mercadoLibre":""
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595686559-pipa-wax-gotero-en-vidrio-_JM"
     },
-    
     {
         "nombre":"Pipa Vidrio Lunar",
         "precio":"$ 12.000 pesos cop",
         "img":"assets/img/pipa/vidriogruesa-fondoblanco.jpg",
         "mercadoLibre":""
     },
+
+
+    
     {
         "nombre":"Blunts",
         "precio":"$ 3.000 pesos cop",
