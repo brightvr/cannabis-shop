@@ -538,7 +538,7 @@ $(window).on('load',function(){
    .then(data=>data.json())
    .then(res=>{
 
-    console.log(res);
+    //console.log(res);
     let tamaño_pantalla;
     let print_draw;
 
@@ -560,7 +560,7 @@ $(window).on('load',function(){
         print_draw=portada_phone(res);
     }
 
-    console.log('ok');
+    //console.log('ok');
     $('.tienda-cannabis-shop').remove();
     $('.card-principal').append(print_draw);
 

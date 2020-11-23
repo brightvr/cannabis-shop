@@ -11,6 +11,7 @@
 
 </head>
 <body>
+  <script src="librerias/jquery/jquery-3.5.1.js"></script>
 
   <!-- Load Facebook SDK for JavaScript -->
   <div id="fb-root"></div>
@@ -65,7 +66,7 @@ logged_out_greeting="Hola! somos Cannabis shop ¿En que podemos ayudarte?">
               <a class="nav-link" href="cultura.html"><h3>Cultura</h3></a>
             </li>
             <li class="nav-item ml-5 mr-5">
-              <a class="nav-link" href="#"><h3>Compra protegida</h3></a>
+              <a class="nav-link" href="https://portalorion.store"><h3><img class="portalOrion" src="assets/img/logo-orion-claro.png" alt=""></h3></a>
             </li>
           </ul>
         
@@ -126,16 +127,17 @@ logged_out_greeting="Hola! somos Cannabis shop ¿En que podemos ayudarte?">
         <br>
         <div class="categorias ">
           <hr>
+
           <div class="alert alert-warning">
-            <h5>Categorias</h5>
-          <a href="catalogo.html#all" class="btn btn-outline-success m-2">Ver todo</a>
-          <a href="catalogo.html#pipas" class="btn btn-outline-success m-2">Pipas</a>
-          <a href="catalogo.html#grinder"  class="btn btn-outline-success m-2">Grinders</a>
-          <a href="catalogo.html#cueros" class="btn btn-outline-success m-2">Cueros</a>
-          <a href="catalogo.html#encendedores" class="btn btn-outline-success m-2">Encendedores</a>
-          <a href="catalogo.html#bongs" class="btn btn-outline-success m-2">Bongs</a>
-          <a href="catalogo.html#combos" class="btn btn-outline-success m-2">Combos</a>
-          <a href="catalogo.html#otros" class="btn btn-outline-success m-2">Otros</a>
+            <p style="font-size:30px;" class="categoria-1">Categorias</p>
+          <a href="catalogo.html#all" value="Ver todo" class="btn btn-outline-success m-2 cate">Ver todo</a>
+          <a href="catalogo.html#pipas" value="Pipas" class="btn btn-outline-success m-2">Pipas</a>
+          <a href="catalogo.html#grinder"  value="Grinders" class="btn btn-outline-success m-2">Grinders</a>
+          <a href="catalogo.html#cueros" value="Cueros" class="btn btn-outline-success m-2">Cueros</a>
+          <a href="catalogo.html#encendedores" value="Encendedores" class="btn btn-outline-success m-2">Encendedores</a>
+          <a href="catalogo.html#bongs" value="Bongs" class="btn btn-outline-success m-2">Bongs</a>
+          <a href="catalogo.html#combos" value="Combos" class="btn btn-outline-success m-2">Combos</a>
+          <a href="catalogo.html#otros" value="Otros" class="btn btn-outline-success m-2">Otros</a>
         </div>
           <hr>
         
@@ -145,12 +147,38 @@ logged_out_greeting="Hola! somos Cannabis shop ¿En que podemos ayudarte?">
           
         </div>
       </div>
+
+      <script>
+        
+        $(window).on('load',function(){
+
+       
+        let botones = document.getElementsByClassName('btn-outline-success');
+        let contenedorCategpria = document.getElementsByClassName('categoria-1');
+     
+        for(let i=0;i<botones.length;i++){
+
+          botones[i].addEventListener('click',(e)=>{
+            fetch('')
+            .then(data=>{
+            
+             contenedorCategpria[0].innerHTML=e.target.attributes[1].nodeValue;
+            })
+
+          })
+        }
+
+
+        })
+
+       
+      </script>
       
       <br>
       <br>
       <br>
       <br>
-    <script src="librerias/jquery/jquery-3.5.1.js"></script>
+  
     <script src="librerias/bootstrap/js/bootstrap.min.js"></script>
     <script src="librerias/icons/js/all.js"></script>
     <script src="js/dibujosCatalogo.js"></script>

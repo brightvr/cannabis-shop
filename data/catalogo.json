@@ -201,16 +201,16 @@
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595375962-pipa-tague-de-madera-_JM"
     },
     {
-        "nombre":"Pipa forro vidrio",
-        "precio":"$ 11.000 pesos cop",
-        "img":"assets/img/pipa/forro-fondoblanco.jpg",
-        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-582149813-pipa-de-vidrio-con-forro-de-goma-_JM"
-    },
-    {
         "nombre":"Pipa Totem resina",
         "precio":"$ 2.800 pesos cop",
         "img":"assets/img/pipa/pipa-totem.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-588348143-pipa-totem-_JM"
+    },
+    {
+        "nombre":"Pipa forro vidrio",
+        "precio":"$ 11.000 pesos cop",
+        "img":"assets/img/pipa/forro-fondoblanco.jpg",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-582149813-pipa-de-vidrio-con-forro-de-goma-_JM"
     },
     {
         "nombre":"Pipa Superheroes",

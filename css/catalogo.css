@@ -85,9 +85,26 @@ body{
     
 }
 
+.portalOrion{
+    width: 140px;
+    margin-left: -21px;
+    
+}
+
+svg{
+    cursor: pointer;
+}
+
+
 
 
 @media(min-width:1000px){
+
+    .portalOrion{
+        width: 140px;
+        margin-top: -21px;
+        position: absolute;
+    }
 
     .producto{
         margin: 20px;

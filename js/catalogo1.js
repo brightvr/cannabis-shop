@@ -8,9 +8,9 @@ $(window).on('load',function(){
     .then(res=>res.json())
     .then(data=>{
 
-      //console.log(data);
+     
         for(let i=0; i<data.length;i++){
-
+         // console.log(data, i, path_fetch);
             $('.contenedor-productos').append(`
             
             
@@ -448,7 +448,7 @@ $(window).on('load',function(){
                   <li class="list-group-item"><strong>Precio:</strong> ${data[0].precio}</li>
                   <li class="list-group-item"><strong>Moneda :</strong> pesos cop</li>
                   <li class="list-group-item"><a href="${data[0].mercadoLibre}" class="btn-comprar-m btn btn-block"><h4>Comprar en mercado libre</h4><br>(No aplican descuentos ni promociones)</a></li>
-                  <li class="list-group-item"><a href="https://api.whatsapp.com/send?phone=573508327730&text=Hola,%20vengo%20del%20catálogo,%20quiero%20comprar%20${data[0].nombre}" class="btn-comprar-c btn btn-block"><h2>Comprar en Cannabis Shop</h2></a></li>
+                  <li class="list-group-item"><a href="https://api.whatsapp.com/send?phone=573508327730&text=Hola,%20vengo%20del%20catálogo,%20quiero%20comprar%20${data[0].nombre}" class="btn-comprar-c btn btn-block"><h2>Comprar en Cannabis Shop</h2>(Hasta 10% off pipas, promocion combos activa )</a></li>
                   <li class="list-group-item"><div class="btn-comprar-m"></div></li>
                   <li class="list-group-item"><strong>Hablar con asesor :</strong> Nuestros asesores te guiaran para realizar tu compra protegida, de manera sencilla y personalizada</li>
                 </ul>
@@ -487,7 +487,7 @@ $(window).on('load',function(){
 
 
             let identificador=e.target.parentElement.nextElementSibling.nextElementSibling.nextElementSibling.nextElementSibling.nextElementSibling.childNodes[2].parentElement.textContent;
-           //console.log(identificador.trim());
+          // console.log(identificador.trim());
            
 
 
@@ -495,7 +495,7 @@ $(window).on('load',function(){
                
 
             if(identificador.trim()==data[h].nombre.trim()){
-              //console.log('bbddd: ',data[h].nombre)
+             // console.log('bbddd: ',data[h].mercadoLibre)
 
                 $('.new-page').append(`
 
@@ -516,7 +516,7 @@ $(window).on('load',function(){
                        <li class="list-group-item"><strong>Precio:</strong> ${data[h].precio}</li>
                        <li class="list-group-item"><strong>Moneda :</strong> pesos cop</li>
                        <li class="list-group-item"><a href="${data[h].mercadoLibre}" class="btn-comprar-m btn btn-block"><h4>Comprar en mercado libre</h4>(No aplican descuentos ni promociones)</a></li>
-                       <li class="list-group-item"><a href="https://api.whatsapp.com/send?phone=573508327730&text=Hola,%20vengo%20del%20catálogo,%20quiero%20comprar%20${data[h].nombre}" class="btn-comprar-c btn btn-block"><h2>Comprar en Cannabis Shop</h2><br></a></li>
+                       <li class="list-group-item"><a href="https://api.whatsapp.com/send?phone=573508327730&text=Hola,%20vengo%20del%20catálogo,%20quiero%20comprar%20${data[h].nombre}" class="btn-comprar-c btn btn-block"><h2>Comprar en Cannabis Shop</h2>(Hasta 10% off pipas, promocion combos activa )</a></li>
                        <li class="list-group-item"><strong>Especificaciones: </strong> Habla con uno de nuestros asesores para saber mas sobre este producto, toda la atencion es 100% personalizada</li>
                        <li class="list-group-item"><strong>Hablar con asesor :</strong> Nuestros asesores te guiaran para realizar tu compra protegida, de manera sencilla y personalizada</li>
                      </ul>
@@ -565,40 +565,56 @@ $(window).on('load',function(){
 let path_fetch="data/catalogo.json";
 
 
-console.log(window.location.hash)
+//console.log(window.location.hash)
 
+let contenedorCategpria = document.getElementsByClassName('categoria-1');
+     
 //condiciones iniciales
 if(window.location.hash==="#all" || window.location.hash===""){
+
   path_fetch="data/catalogo.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Ver todo';
+
 } 
 else if(window.location.hash==="#pipas"){
+
   path_fetch="data/pipas.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Pipas';
+
 }
 else if(window.location.hash==="#grinder"){
+
   path_fetch="data/grinder.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Grinders'
+
 }
 else if(window.location.hash==="#cueros"){
   path_fetch="data/cueros.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Cueros'
 }
 else if(window.location.hash==="#encendedores"){
   path_fetch="data/encendedores.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Encendedores'
 }
 else if(window.location.hash==="#bongs"){
   path_fetch="data/bongs.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Bongs'
 }
 else if(window.location.hash==="#combos"){
   path_fetch="data/combos.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Combos'
 }
 else if(window.location.hash==="#otros"){
   path_fetch="data/otros.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Otros'
 }else{
   path_fetch="data/catalogo.json";
   Catalogo(path_fetch);
@@ -642,6 +658,7 @@ else if(window.location.hash==="#combos"){
 else if(window.location.hash==="#otros"){
   path_fetch="data/otros.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Ver todo'
 }
 
 

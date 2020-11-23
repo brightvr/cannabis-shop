@@ -1,0 +1,29 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nav-item{
+    color: white;
+}
+.logo{
+    width: 100px;
+}
+.portalOrion{
+    width: 140px;
+    margin-left: -21px;
+    
+}
+
+.card{
+
+    box-shadow: 6px 6px 5px black;
+}
+
+
+@media(min-width:1000px){
+    .portalOrion{
+        width: 140px;
+        margin-top: -21px;
+        position: absolute;
+    }
+    
+}

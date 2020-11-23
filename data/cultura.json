@@ -1,0 +1,32 @@
+[
+    {
+        "portada":"assets/img/libro1.PNG",
+        "titulo":"Uso medico del cannaabis y los cannabinoides",
+        "link":"https://www.emcdda.europa.eu/system/files/publications/10171/20185584_TD0618186ESN_PDF.pdf"
+    },
+    {
+        "portada":"assets/img/libro2.PNG",
+        "titulo":"Cannabis medicinal ¿Qué esta en juego?",
+        "link":"http://www.oei.org.co/uploads/files/microsites/31/155/cannabis-medicinal.pdf"
+    },
+    {
+        "portada":"assets/img/libro3.PNG",
+        "titulo":"La marihuana como medicina",
+        "link":"https://d14rmgtrwzf5a.cloudfront.net/sites/default/files/drugfacts-medicalmarijuana-spanish.pdf"
+    },
+    {
+        "portada":"assets/img/libros4.PNG",
+        "titulo":"Marihuana medicinal",
+        "link":"http://www.scielo.org.mx/pdf/am/v31n2/2448-8771-am-31-02-49.pdf"
+    },
+    {
+        "portada":"assets/img/libro5.PNG",
+        "titulo":"Preguntas claves sobre marihuana medicinal en el contexto legal colombiano",
+        "link":"http://www.scielo.org.co/pdf/muis/v29n3/0121-0319-muis-29-03-00007.pdf"
+    },
+    {
+        "portada":"assets/img/libro6.PNG",
+        "titulo":"National Institute on Drug Abuse (NIDA) La marihuana",
+        "link":"https://d14rmgtrwzf5a.cloudfront.net/sites/default/files/1832-la-marihuana.pdf"
+    }
+]
