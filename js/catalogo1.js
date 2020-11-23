@@ -447,6 +447,8 @@ $(window).on('load',function(){
                 <li class="list-group-item"><strong>Especificaciones: </strong> Habla con uno de nuestros asesores para saber mas sobre este producto, toda la atencion es 100% personalizada</li>
                   <li class="list-group-item"><strong>Precio:</strong> ${data[0].precio}</li>
                   <li class="list-group-item"><strong>Moneda :</strong> pesos cop</li>
+                  <li class="list-group-item"><strong>Pais :</strong> Colombia</li>
+
                   <li class="list-group-item"><a href="${data[0].mercadoLibre}" class="btn-comprar-m btn btn-block"><h4>Comprar en mercado libre</h4><br>(No aplican descuentos ni promociones)</a></li>
                   <li class="list-group-item"><a href="https://api.whatsapp.com/send?phone=573508327730&text=Hola,%20vengo%20del%20catálogo,%20quiero%20comprar%20${data[0].nombre}" class="btn-comprar-c btn btn-block"><h2>Comprar en Cannabis Shop</h2>(Hasta 10% off pipas, promocion combos activa )</a></li>
                   <li class="list-group-item"><div class="btn-comprar-m"></div></li>
@@ -515,6 +517,8 @@ $(window).on('load',function(){
                      <li class="list-group-item"><strong>Pagos: </strong> Contraentrega, trasnferencia PSE, tarjetas debito y cedito, efecty, baloto, nequi o daviplata</li>
                        <li class="list-group-item"><strong>Precio:</strong> ${data[h].precio}</li>
                        <li class="list-group-item"><strong>Moneda :</strong> pesos cop</li>
+                       <li class="list-group-item"><strong>Pais :</strong> Colombia</li>
+
                        <li class="list-group-item"><a href="${data[h].mercadoLibre}" class="btn-comprar-m btn btn-block"><h4>Comprar en mercado libre</h4>(No aplican descuentos ni promociones)</a></li>
                        <li class="list-group-item"><a href="https://api.whatsapp.com/send?phone=573508327730&text=Hola,%20vengo%20del%20catálogo,%20quiero%20comprar%20${data[h].nombre}" class="btn-comprar-c btn btn-block"><h2>Comprar en Cannabis Shop</h2>(Hasta 10% off pipas, promocion combos activa )</a></li>
                        <li class="list-group-item"><strong>Especificaciones: </strong> Habla con uno de nuestros asesores para saber mas sobre este producto, toda la atencion es 100% personalizada</li>
