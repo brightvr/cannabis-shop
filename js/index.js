@@ -10,7 +10,7 @@ phone
     .then(res=>res.json())
     .then(data=>{
 
-        console.log(data);
+       // console.log(data);
 
         $('.productos').prepend(`
         <br>
@@ -51,7 +51,7 @@ phone
 
     $('.pagos').on('click',function(){
 
-        console.log('click');
+        //console.log('click');
 
         $('body').prepend(`
 
@@ -113,6 +113,8 @@ phone
             $('.info-pagos').remove();
         });
 
+        window.location.hash="#metodospagos"
+
 
 
     });
@@ -149,7 +151,7 @@ phone
         });
 
 
-
+        window.location.hash="#envios"
     });
 
 
@@ -167,9 +169,10 @@ phone
          <br>
          <p> 
          Todos los subdominios pertenecientes al dominio portalorion.store funcionan como aplicaciones frontend desarrolladas
-          por la empresa Bright S.A.S. dichas aplicaciones  se conectan a los servicios prestados por las empresas 
-          Paypal PayU, mercado libre, mercado pago  y otras, en ningun momento la empresa  Bright S.A.S. afirma tener algun tipo de
-          relacion con dichas empresas.
+         por la empresa Bright S.A.S. dichas aplicaciones se conectan a los servicios prestados por las empresas 
+         Paypal PayU, mercado libre, mercado pago y otras, en ningún momento la empresa Bright S.A.S. afirma tener algún tipo de
+         relación con dichas empresas.
+
          </p>
          <p>
          Todos los subdominios de portalorion.store ofrecen links, pasarelas y metodos 
@@ -177,7 +180,7 @@ phone
          de subdominios pertenecientes protalorion.store no procesa pagos ni presta algun tipo de servicio financiero
          </p>
          <p>
-         La empresa Bright S.A.S. da garantía sobre los pagos realizados atravez 
+         La empresa Bright S.A.S. da garantía sobre los pagos realizados a traves
          de links y pasarelas de pago pertenecientes a los subdominos de de portalorion.store
          </p>
          <h3><strong>1.1. CANNABIS SHOP</strong></h3>
@@ -187,7 +190,7 @@ phone
          </p>
          <p>
          La empresa BRIGHT S.A.S 
-         solo da soporte y garantia para los link de pago distruibuidos por :<br>
+         solo da soporte y garantía para los link de pago distruibuidos por :<br>
 
          <strong>Numeros de whatsapp : </strong><br>
          -3228873812(ventas)<br>
@@ -205,7 +208,7 @@ phone
            de envios orion <img src="assets/img/envios orion negro.png" style="width:80px;">
          </p>
          <p>
-         El servicio para ecommerces y comerciantes denominado <a href="#">Portal Orion</a>
+         El servicio para ecommerces y comerciantes denominado <a href="portalorion.store">Portal Orion</a>
          ofrece garantia y seguridad en los pagos realizados en el dominio
          portalorion.store y sus subdominios, siempre y cuando cumpla con los terminios y condiciones
          de Portal Orion y sus subdominios
@@ -221,13 +224,13 @@ phone
             <h3><strong>2.1. ENVIOS EN BOGOTÁ Y CUNDINAMARCA</strong></h3>
             <p>Los envios de productos de las <a href="#">tiendas oficiales</a> de Portal Orion
             para la ciudad de Bogotá y municipios de Cundinamarca 
-            son realizados por <a href="#">Envios Orion</a> siendo esta una solucion de mensajeria
+            son realizados por <a href="#">Envios Orion</a> siendo esta una solución de mensajeria
             diseñada e implementada por la empresa Bright S.A.S.
             </p>
             <p>
                 Si un envio realizado a traves de <a href="#">Envios Orion</a> tiene una demora de mas de
-                24 horas posteriores a la fecha y hora de entrega pactada el cliente tiene la opcion de pedir 
-                la devolucion del dinero
+                24 horas posteriores a la fecha y hora de entrega pactada el cliente tiene la opción de pedir 
+                la devolución del dinero
             </p>
             <p>
                 El servicio prestado por Envios Orion a las tiendas oficiales 
@@ -260,21 +263,21 @@ phone
        <p>
        La  marca Cannabis Shop pertenece a las tiendas oficiales de <a href="#">Portal Orion</a> esto indica que 
        Cannabis Shop debe cumplir con los <a href="#">terminos y condiciones</a> de Portal Orion que incluyen garantias 
-       por defectos de fabrica y devoluciones de dinero por publicidad engañosa 
+       por defectos de fabrica y devoluciones de dinero por publicidad engañosa
        </p>
        <p>
-            Los clientes de cannabis shop podran pedir devolucion de dinero en dos casos especificos:<br>
+            Los clientes de cannabis shop podrán pedir devolución de dinero en dos casos especificos:<br>
             -Publicidad engañosa por parte de la marca cannabis shop<br>
             -Productos en mal estado<br>
        </p>
        <p>
-            Los clientes de cannabis shop podran pedir cambio de producto en un casos especificos:<br>
+            Los clientes de cannabis shop podrán pedir cambio de producto en un casos especificos:<br>
             -Defectos de fabrica del producto <br>
             
          </p>
          <p>
          La solocion para ecommerces y comerciantes <a href="#">Portal Orion</a>
-         ofrece garantia  de  10 días por defectos de fabrica de los productos ofertados por la marca Cannabis Shop
+         ofrece garantía  de  10 días por defectos de fabrica de los productos ofertados por la marca Cannabis Shop
          </p>
         </div>
         </div>`
@@ -287,7 +290,7 @@ phone
             $('.info-pagos').remove();
         });
 
-
+        window.location.hash="#pagoseguro"
 
     });
 
@@ -316,5 +319,11 @@ phone
             
             `)
         }
-    })
+    });
+
+
+    $('.cont-descuento').on('click',function(){
+
+        window.location.href="catalogo.html#pipas"
+      })
 })

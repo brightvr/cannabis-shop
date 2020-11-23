@@ -260,7 +260,7 @@ $(window).on('load',function () {
       }
 
       .cls-12 {
-        font-size: 73px;
+        font-size: 100px;
         font-family: ArialRoundedMTBold, Arial Rounded MT Bold;
       }
       .cls-mia{
@@ -304,9 +304,14 @@ $(window).on('load',function () {
   </g>
   <g id="TEXTO-PRINCIPAL">
     <g>
-    <text class="cls-mia" transform="translate(8.68 123.8)">${data[0].descuento}</text>
+    <text class="cls-mia" transform="translate(8.68 173.8)">${data[0].descuento}</text>
     </g>
   </g>
+  <g id="TEXTO-P">
+  <g>
+  <text class="cls-mia" transform="translate(150.68 263.8)">PIPAS</text>
+  </g>
+</g>
   <g id="TEXTO-COMPRAR">
    <text class="cls-12" transform="translate(39.68 423.8)">${data[0].textComprar}</text>
   </g>
@@ -351,8 +356,10 @@ $(window).on('load',function () {
      
         });
 
-        
+
 })
+
+
 
 
 /* imagenes.addEventListener('animationstart',(e)=>{

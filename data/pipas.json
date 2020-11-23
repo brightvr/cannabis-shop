@@ -24,12 +24,6 @@
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-582149813-pipa-de-vidrio-con-forro-de-goma-_JM"
     },
     {
-        "nombre":"Pipa Totem resina",
-        "precio":"$ 2.800 pesos cop",
-        "img":"assets/img/pipa/pipa-totem.png",
-        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-588348143-pipa-totem-_JM"
-    },
-    {
         "nombre":"Pipa Superheroes",
         "precio":"$ 2.800 pesos cop",
         "img":"assets/img/pipa/superheroes.png",
@@ -46,6 +40,12 @@
         "precio":"$ 7.000 pesos cop",
         "img":"assets/img/pipa/p-saxofon-pequeña.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-582150248-pipa-instrumento-_JM"
+    },
+    {
+        "nombre":"Pipa Totem resina",
+        "precio":"$ 2.800 pesos cop",
+        "img":"assets/img/pipa/pipa-totem.png",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-588348143-pipa-totem-_JM"
     },
     {
         "nombre":"P. Saxofon Grande",
