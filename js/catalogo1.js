@@ -567,38 +567,48 @@ let path_fetch="data/catalogo.json";
 
 console.log(window.location.hash)
 
+let contenedorCategpria = document.getElementsByClassName('categoria-1');
+     
 //condiciones iniciales
 if(window.location.hash==="#all" || window.location.hash===""){
   path_fetch="data/catalogo.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Ver todo';
 } 
 else if(window.location.hash==="#pipas"){
   path_fetch="data/pipas.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Pipas'
 }
 else if(window.location.hash==="#grinder"){
   path_fetch="data/grinder.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Grinders'
 }
 else if(window.location.hash==="#cueros"){
   path_fetch="data/cueros.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Cueros'
 }
 else if(window.location.hash==="#encendedores"){
   path_fetch="data/encendedores.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Encendedores'
 }
 else if(window.location.hash==="#bongs"){
   path_fetch="data/bongs.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Bongs'
 }
 else if(window.location.hash==="#combos"){
   path_fetch="data/combos.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Combos'
 }
 else if(window.location.hash==="#otros"){
   path_fetch="data/otros.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Otros'
 }else{
   path_fetch="data/catalogo.json";
   Catalogo(path_fetch);
@@ -642,6 +652,7 @@ else if(window.location.hash==="#combos"){
 else if(window.location.hash==="#otros"){
   path_fetch="data/otros.json";
   Catalogo(path_fetch);
+  contenedorCategpria[0].innerHTML='Ver todo'
 }
 
 

@@ -27,7 +27,7 @@
         "titulo":"Encendedores",
         "descripcion":"Encuentre aquí los encendedores de coleccion, clippers, zippos y mucho más...",
         "imagen":"assets/img/encendedores/zippos.png",
-        "tipo":"encendedores"
+        "tipo":"#encendedores"
     }
     
 ]

@@ -10,6 +10,35 @@
     <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
+
+
+  <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+  <script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        xfbml            : true,
+        version          : 'v8.0'
+      });
+    };
+
+    (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+  <!-- Your Chat Plugin code -->
+  <div class="fb-customerchat"
+    attribution=setup_tool
+    page_id="109591277515881"
+theme_color="#67b868"
+logged_in_greeting="Hola! somos Cannabis shop ¿En que podemos ayudarte?"
+logged_out_greeting="Hola! somos Cannabis shop ¿En que podemos ayudarte?">
+  </div>
+    
     
 
 
@@ -31,7 +60,7 @@
                 <a class="nav-link" href="cultura.html"><h3>Cultura</h3></a>
               </li>
             <li class="nav-item ml-5 mr-5">
-              <a class="nav-link" href="#"><h3>Compra protegida</h3></a>
+              <a class="nav-link" href="#"><h3><img class="portalOrion" src="assets/img/logo-orion-claro.png" alt=""></h3></a>
             </li>
           </ul>
         
@@ -70,7 +99,7 @@
                 <h4>Formas de envio <i class="fas fa-truck-moving"></i></h4>
              </div>
              <div class="garantia alert alert-success d-flex justify-content-center" role="alert">
-                <h4> Garantias y pago seguro <i class="fas fa-check-square"></i></h4>
+                <h4>  Pago seguro <i class="fas fa-check-square"></i></h4>
              </div>
 
             
