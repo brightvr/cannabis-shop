@@ -13,7 +13,7 @@
     },
     {
         "nombre":"Pipa Tague",
-        "precio":"$ 8.000 pesos cop",
+        "precio":"$ 7.000 pesos cop",
         "img":"assets/img/pipa/tawe-fondoblanco.jpg",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595375962-pipa-tague-de-madera-_JM"
     },
@@ -190,6 +190,12 @@
         "nombre":"Pipa Vidrio Lunar",
         "precio":"$ 12.000 pesos cop",
         "img":"assets/img/pipa/vidriogruesa-fondoblanco.jpg",
-        "mercadoLibre":""
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595687404-pipa-de-vidrio-lunar-_JM"
+    },
+    {
+        "nombre":"Pipa Resina Pequeña",
+        "precio":"$ 2.800 pesos cop",
+        "img":"assets/img/pipa/resina.png",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595688988-pipa-en-resina-pequena-_JM"
     }
 ]

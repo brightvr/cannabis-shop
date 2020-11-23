@@ -1,4 +1,16 @@
-[
+[  
+     {
+    "nombre":"Grinder Tarjeta",
+    "precio":"$ 7.000 pesos cop",
+    "img":"assets/img/grinder/g-tarjeta.png",
+    "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595689512-grinder-tarjeta-_JM"
+    },
+    {
+        "nombre":"G. Granada Grande",
+        "precio":"$ 20.000 pesos cop",
+        "img":"assets/img/grinder/granada.jpg",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595692843-grinder-granada-2-pisos-_JM"
+    },
     {
         "nombre":"G. Personal Bulldog",
         "precio":"$ 18.000 pesos cop",
@@ -17,12 +29,7 @@
         "img":"assets/img/grinder/calavera-fondo-blanco1.jpg",
         "mercadoLibre":""
     },
-    {
-        "nombre":"Grinder Tarjeta",
-        "precio":"$ 7.000 pesos cop",
-        "img":"assets/img/grinder/g-tarjeta.png",
-        "mercadoLibre":""
-    },
+    
     {
         "nombre":"G. Estampado Pequeño",
         "precio":"$ 18.000 pesos cop",
@@ -42,12 +49,7 @@
         "mercadoLibre":""
     },
   
-    {
-        "nombre":"G. Granada Grande",
-        "precio":"$ 20.000 pesos cop",
-        "img":"assets/img/grinder/granada.jpg",
-        "mercadoLibre":""
-    },
+    
     {
         "nombre":"G. Granada pequeña",
         "precio":"$ 15.000 pesos cop",
