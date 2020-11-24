@@ -443,7 +443,7 @@ $(window).on('load',function(){
                   <p class="card-text">Envios a todo Colombia, pagos contra entrega en la ciudad de Bogotá </p>
                 </div>
                 <ul class="list-group list-group-flush">
-                <li class="list-group-item"><strong>Pagos: </strong> Contraentrega, trasnferencia PSE, tarjetas debito y cedito, efecty, baloto, nequi o daviplata</li>
+                <li class="list-group-item"><strong>Pagos: </strong> Contraentrega, trasnferencia PSE, tarjetas débito y crédito, efecty, baloto, nequi o daviplata</li>
                 <li class="list-group-item"><strong>Especificaciones: </strong> Habla con uno de nuestros asesores para saber mas sobre este producto, toda la atencion es 100% personalizada</li>
                   <li class="list-group-item"><strong>Precio:</strong> ${data[0].precio}</li>
                   <li class="list-group-item"><strong>Moneda :</strong> pesos cop</li>
