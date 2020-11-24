@@ -450,14 +450,14 @@ $(window).on('load',function(){
                   <li class="list-group-item"><strong>Pais :</strong> Colombia</li>
 
                   <li class="list-group-item"><a href="${data[0].mercadoLibre}" class="btn-comprar-m btn btn-block"><h4>Comprar en mercado libre</h4><br>(No aplican descuentos ni promociones)</a></li>
-                  <li class="list-group-item"><a href="https://api.whatsapp.com/send?phone=573508327730&text=Hola,%20vengo%20del%20catálogo,%20quiero%20comprar%20${data[0].nombre}" class="btn-comprar-c btn btn-block"><h2>Comprar en Cannabis Shop</h2>(Hasta 10% off pipas, promocion combos activa )</a></li>
+                  <li class="list-group-item"><a href="https://api.whatsapp.com/send?phone=573192091708&text=Hola,%20vengo%20del%20catálogo,%20quiero%20comprar%20${data[0].nombre}" class="btn-comprar-c btn btn-block"><h2>Comprar en Cannabis Shop</h2>(Hasta 10% off pipas, promocion combos activa )</a></li>
                   <li class="list-group-item"><div class="btn-comprar-m"></div></li>
                   <li class="list-group-item"><strong>Hablar con asesor :</strong> Nuestros asesores te guiaran para realizar tu compra protegida, de manera sencilla y personalizada</li>
                 </ul>
                 <div class="card-body d-block">
 
                   <a href="https://api.whatsapp.com/send?phone=573228873812&text=Hola,%20vengo%20del%20catálogo%20me%20podrias%20ayudar" class="btn btn-success btn-block"><h5>Asesor 1</h5> <span class="icono-whatsapp"><i class="fab fa-whatsapp-square"></i></span> </a>
-                  <a href="https://api.whatsapp.com/send?phone=573508327730&text=Hola,%20vengo%20del%20catálogo%20me%20podrias%20ayudar" class="btn btn-success btn-block"><h5>Asesor 2</h5> <span class="icono-whatsapp"><i class="fab fa-whatsapp-square"></i></span> </a>
+                  <a href="https://api.whatsapp.com/send?phone=573192091708&text=Hola,%20vengo%20del%20catálogo%20me%20podrias%20ayudar" class="btn btn-success btn-block"><h5>Asesor 2</h5> <span class="icono-whatsapp"><i class="fab fa-whatsapp-square"></i></span> </a>
 
                 </div>
               </div>
@@ -520,13 +520,13 @@ $(window).on('load',function(){
                        <li class="list-group-item"><strong>Pais :</strong> Colombia</li>
 
                        <li class="list-group-item"><a href="${data[h].mercadoLibre}" class="btn-comprar-m btn btn-block"><h4>Comprar en mercado libre</h4>(No aplican descuentos ni promociones)</a></li>
-                       <li class="list-group-item"><a href="https://api.whatsapp.com/send?phone=573508327730&text=Hola,%20vengo%20del%20catálogo,%20quiero%20comprar%20${data[h].nombre}" class="btn-comprar-c btn btn-block"><h2>Comprar en Cannabis Shop</h2>(Hasta 10% off pipas, promocion combos activa )</a></li>
+                       <li class="list-group-item"><a href="https://api.whatsapp.com/send?phone=573192091708&text=Hola,%20vengo%20del%20catálogo,%20quiero%20comprar%20${data[h].nombre}" class="btn-comprar-c btn btn-block"><h2>Comprar en Cannabis Shop</h2>(Hasta 10% off pipas, promocion combos activa )</a></li>
                        <li class="list-group-item"><strong>Especificaciones: </strong> Habla con uno de nuestros asesores para saber mas sobre este producto, toda la atencion es 100% personalizada</li>
                        <li class="list-group-item"><strong>Hablar con asesor :</strong> Nuestros asesores te guiaran para realizar tu compra protegida, de manera sencilla y personalizada</li>
                      </ul>
                      <div class="card-body d-block">
                      <a href="https://api.whatsapp.com/send?phone=573228873812&text=Hola,%20vengo%20del%20catalogo%20me%20podrias%20ayudar,%20me%20%interesa%20${data[h].nombre}" class="btn btn-success btn-block"><h5>Asesor 1</h5> <span class="icono-whatsapp"><i class="fab fa-whatsapp-square"></i></span> </a>
-                     <a href="https://api.whatsapp.com/send?phone=573508327730&text=Hola,%20vengo%20del%20catalogo%20me%podrias%20ayudar,%20me%20interesa%20${data[h].nombre}" class="btn btn-success btn-block"><h5>Asesor 2</h5> <span class="icono-whatsapp"><i class="fab fa-whatsapp-square"></i></span> </a>
+                     <a href="https://api.whatsapp.com/send?phone=573192091708&text=Hola,%20vengo%20del%20catalogo%20me%podrias%20ayudar,%20me%20interesa%20${data[h].nombre}" class="btn btn-success btn-block"><h5>Asesor 2</h5> <span class="icono-whatsapp"><i class="fab fa-whatsapp-square"></i></span> </a>
    
                      </div>
                    </div>

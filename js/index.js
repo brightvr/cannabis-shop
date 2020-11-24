@@ -79,7 +79,7 @@ phone
             </div>
             <br>
             <div class="alert alert-danger  d-flex justify-content-center">
-             Tarjetas de credito <h3><i class="fab fa-cc-mastercard"></i> <i class="fab fa-cc-visa"></i> <i class="fab fa-cc-amex"></i> <i class="fab fa-cc-discover"></i></h3>
+             Tarjetas de crédito <h3><i class="fab fa-cc-mastercard"></i> <i class="fab fa-cc-visa"></i> <i class="fab fa-cc-amex"></i> <i class="fab fa-cc-discover"></i></h3>
             </div>
             <br>
             <div class="alert alert-danger  d-flex justify-content-center">
@@ -87,7 +87,7 @@ phone
             </div>
             <br>
             <div class="alert alert-danger  d-flex justify-content-center">
-             Tarjetas debito <h3><i class="far fa-credit-card"></i></h3>
+             Tarjetas débito <h3><i class="far fa-credit-card"></i></h3>
             </div>
             <br>
             <div class="alert alert-danger  d-flex justify-content-center">
@@ -218,38 +218,38 @@ phone
         <br>
         
         <div class="alert alert-danger">
-            <h2><strong>2.0.ENVIOS</strong></h2>
+            <h2><strong>2.0.ENVÍOS</strong></h2>
 
             <br>
             <h3><strong>2.1. ENVIOS EN BOGOTÁ Y CUNDINAMARCA</strong></h3>
-            <p>Los envios de productos de las <a href="#">tiendas oficiales</a> de Portal Orion
+            <p>Los envíos de productos de las <a href="#">tiendas oficiales</a> de Portal Orion
             para la ciudad de Bogotá y municipios de Cundinamarca 
             son realizados por <a href="#">Envios Orion</a> siendo esta una solución de mensajeria
             diseñada e implementada por la empresa Bright S.A.S.
             </p>
             <p>
-                Si un envio realizado a traves de <a href="#">Envios Orion</a> tiene una demora de mas de
+                Si un envío realizado a traves de <a href="#">Envios Orion</a> tiene una demora de mas de
                 24 horas posteriores a la fecha y hora de entrega pactada el cliente tiene la opción de pedir 
                 la devolución del dinero
             </p>
             <p>
                 El servicio prestado por Envios Orion a las tiendas oficiales 
-                es un servicio puerta a puerta que incluye pago contraentrega y esta
-                sujeto a las politica, <a href="#">terminos y condiciones</a> de Envios Orion
+                es un servicio puerta a puerta que incluye pago contraentrega y está 
+                sujeto a las politica, <a href="#">Términos y condiciones </a> de Envios Orion
             </p>
 
         
-            <h3><strong>2.2. ENVIOS EN TODO COLOMBIA</strong></h3>
+            <h3><strong>2.2. ENVÍOS EN TODO COLOMBIA</strong></h3>
             <p>
-                Los envios para el resto de Colombia se realizan
-                a traves de la empresa de transporte y mensajeria <a href="#">Interrapidisimo</a>
+                Los envíos para el resto de Colombia se realizan
+                a traves de la empresa de transporte y mensajería <a href="#">Interrapidisimo</a>
             </p>
             <p>
             La empresa Birght S.A.S. y sus servicios Portal Orion y Envios Orion
             no se hacen responsables por demoras en los envios realizados por medio de interrapidisimo
             </p>
             <p>
-            La devolucion del dinero por demora en la entrega de los envios no aplica para cualquier envio realizado
+            La devolución del dinero por demora en la entrega de los envíos no aplica para cualquier envío realizado
             por medio de interrapidisimo
             </p>
         </div>
@@ -262,21 +262,21 @@ phone
        </p>
        <p>
        La  marca Cannabis Shop pertenece a las tiendas oficiales de <a href="#">Portal Orion</a> esto indica que 
-       Cannabis Shop debe cumplir con los <a href="#">terminos y condiciones</a> de Portal Orion que incluyen garantias 
+       Cannabis Shop debe cumplir con los <a href="#">términos y condiciones</a> de Portal Orion que incluyen garantías 
        por defectos de fabrica y devoluciones de dinero por publicidad engañosa
        </p>
        <p>
-            Los clientes de cannabis shop podrán pedir devolución de dinero en dos casos especificos:<br>
+            Los clientes de cannabis shop podrán pedir devolución de dinero en dos casos específicos:<br>
             -Publicidad engañosa por parte de la marca cannabis shop<br>
             -Productos en mal estado<br>
        </p>
        <p>
-            Los clientes de cannabis shop podrán pedir cambio de producto en un casos especificos:<br>
+            Los clientes de cannabis shop podrán pedir cambio de producto en un casos específicos:<br>
             -Defectos de fabrica del producto <br>
             
          </p>
          <p>
-         La solocion para ecommerces y comerciantes <a href="#">Portal Orion</a>
+         La soloción para ecommerces y comerciantes <a href="#">Portal Orion</a>
          ofrece garantía  de  10 días por defectos de fabrica de los productos ofertados por la marca Cannabis Shop
          </p>
         </div>
