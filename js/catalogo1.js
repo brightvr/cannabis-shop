@@ -511,10 +511,10 @@ $(window).on('load',function(){
                      <img src="${data[h].img}" class="card-img-top" alt="...">
                      <div class="card-body">
                        <h3 class="card-title">${data[h].nombre}</h3>
-                       <p class="card-text">Envios a todo Colombia, pagos contra entrega en la ciudad de Bogotá </p>
+                       <p class="card-text">Envíos a todo Colombia, pagos contra entrega en la ciudad de Bogotá </p>
                      </div>
                      <ul class="list-group list-group-flush">
-                     <li class="list-group-item"><strong>Pagos: </strong> Contraentrega, trasnferencia PSE, tarjetas debito y cedito, efecty, baloto, nequi o daviplata</li>
+                     <li class="list-group-item"><strong>Pagos: </strong> Contra entrega, trasnferencia PSE, tarjetas debito y credito, efecty, baloto, nequi o daviplata</li>
                        <li class="list-group-item"><strong>Precio:</strong> ${data[h].precio}</li>
                        <li class="list-group-item"><strong>Moneda :</strong> pesos cop</li>
                        <li class="list-group-item"><strong>Pais :</strong> Colombia</li>
