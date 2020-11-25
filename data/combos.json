@@ -11,5 +11,11 @@
         "img":"assets/img/combo-diario/combo-personal.jpg",
         "caso":" Promoción",
         "mercadoLibre":""
+    },
+    {
+        "nombre":"Combo Chilling",
+        "precio":"$ 23.000 pesos cop",
+        "img":"assets/img/combo/chilling.jpg",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595866842-grinder-3-pisos-cueros-_JM"
     }
 ]

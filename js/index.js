@@ -180,8 +180,8 @@ phone
          de subdominios pertenecientes protalorion.store no procesa pagos ni presta algun tipo de servicio financiero
          </p>
          <p>
-         La empresa Bright S.A.S. da garantía sobre los pagos realizados a traves
-         de links y pasarelas de pago pertenecientes a los subdominos de de portalorion.store
+         La empresa Bright S.A.S. da garantía sobre los pagos realizados a través
+         de links y pasarelas de pago pertenecientes a los subdominos de portalorion.store
          </p>
          <h3><strong>1.1. CANNABIS SHOP</strong></h3>
          <p>
@@ -202,14 +202,14 @@ phone
          -Tambien se incluyen las cuentas de instagram asociadas directamente a las paginas de facebook
          </p>
          <img>
-         La garantia de devolucion de dinero, solo esta disponible por defectos de fabrica de los productos
-         o demoras de mas 24 horas posteriores a la fehca de entrega pactada 
-          en los envios realizados unica y excluisvamente a traves
+         La garantia de devolucion de dinero, solo esta disponible por defectos de fábrica de los productos
+         o demoras de mas 24 horas posteriores a la fecha de entrega pactada 
+          en los envios realizados única y excluisvamente a través
            de envios orion <img src="assets/img/envios orion negro.png" style="width:80px;">
          </p>
          <p>
          El servicio para ecommerces y comerciantes denominado <a href="portalorion.store">Portal Orion</a>
-         ofrece garantia y seguridad en los pagos realizados en el dominio
+         ofrece garantía y seguridad en los pagos realizados en el dominio
          portalorion.store y sus subdominios, siempre y cuando cumpla con los terminios y condiciones
          de Portal Orion y sus subdominios
          </p>
