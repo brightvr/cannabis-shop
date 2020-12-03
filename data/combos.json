@@ -17,5 +17,17 @@
         "precio":"$ 23.000 pesos cop",
         "img":"assets/img/combo/chilling.jpg",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595866842-grinder-3-pisos-cueros-_JM"
+    },
+    {
+        "nombre":"Combo Navidad #1",
+        "precio":"$ 90.000 pesos cop",
+        "img":"assets/img/combo/combo-navidad-1.jpg",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-596821051-whisky-something-special-1ltr-trio-de-copas-calavera-_JM"
+    },
+    {
+        "nombre":"Combo Navidad #2",
+        "precio":"$ 70.000 pesos cop",
+        "img":"assets/img/combo/combo-navidad-2.jpg",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-596828901-whisky-something-special-raw-cueros-grinder-dorado-_JM"
     }
 ]

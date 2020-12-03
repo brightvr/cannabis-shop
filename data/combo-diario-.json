@@ -1,9 +1,9 @@
 [
     {
-        "nombre":"Combo Personal",
-        "precio":"$ 16.000 pesos cop",
-        "img":"assets/img/combo-diario/combo-personal.jpg",
-        "caso":" Promoción",
-        "mercadoLibre":""
+        "nombre":"Combo Navideño ",
+        "precio":"$ 70.000 pesos cop",
+        "img":"assets/img/combo-diario/combo2-1.jpg",
+        "caso":" Combo",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-596828901-whisky-something-special-raw-cueros-grinder-dorado-_JM"
     }
 ]
