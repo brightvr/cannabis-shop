@@ -319,7 +319,7 @@
     },
     {
         "nombre":"Pipa Vidrio Lineas",
-        "precio":"$ 10.000 pesos cop",
+        "precio":"$ 9.000 pesos cop",
         "img":"assets/img/pipa/vidriodelgada-fondoblanco.jpg",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595624555-pipa-de-vidrio-grueso-_JM"
     },
@@ -379,7 +379,7 @@
     },
     {
         "nombre":"Pipa Pepino",
-        "precio":"$ .000 pesos cop",
+        "precio":"$ 6.000 pesos cop",
         "img":"assets/img/pipa/pipa-pepino.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595684998-pipa-pepino-rick-resina-_JM"
     },
@@ -439,13 +439,13 @@
     },
     {
         "nombre":"C.Clipper delgados #12",
-        "precio":"$ 6.500 pesos cop",
+        "precio":"$ 7.000 pesos cop",
         "img":"assets/img/cueros/cueros-clipper-delgados.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595907719-kit-de-cueros-clipper-12-filtros-_JM"
     },
     {
         "nombre":"Lion Rollin Circus 12",
-        "precio":"$ 3.500 pesos cop",
+        "precio":"$ 4.000 pesos cop",
         "img":"assets/img/cueros/c-lion-rolling12.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595912971-cueros-lion-rolling-circus-12-_JM"
     },
@@ -469,7 +469,7 @@
     },
     {
         "nombre":"Blunt Wrap #12",
-        "precio":"$ 3.500 pesos cop",
+        "precio":"$ 4.000 pesos cop",
         "img":"assets/img/cueros/blunt-wrap-12.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-596103701-cueros-blunt-wrap-12-_JM"
     },
@@ -483,53 +483,38 @@
         "nombre":"Blunts",
         "precio":"$ 3.000 pesos cop",
         "img":"assets/img/cueros/blunts.png",
-        "mercadoLibre":""
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-580243324-paquete-de-blunts-x2-_JM"
     },
-    {
-        "nombre":"Caja Blunt x25",
-        "precio":"$ 50.000 pesos cop",
-        "img":"assets/img/cueros/caja-blunts.png",
-        "mercadoLibre":""
-    },
-    
-    
     {
         "nombre":"OCB Organico #9",
         "precio":"$ 3.000 pesos cop",
         "img":"assets/img/cueros/cueros-ocb.png",
-        "mercadoLibre":""
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-597043882-cueros-ocb-x50-9-organicos-_JM"
     },
     {
-        "nombre":"Cueros OCB #7",
-        "precio":"$ 2.000 pesos cop",
-        "img":"assets/img/cueros/c-ocb7.png",
-        "mercadoLibre":""
+        "nombre":"Caja Blunt x25",
+        "precio":"$ 46.000 pesos cop",
+        "img":"assets/img/cueros/caja-blunts.png",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-579450784-caja-de-bluntwrap-x25-paquetes-_JM"
     },
     {
         "nombre":"Cueros Candy",
         "precio":"$ 10.000 pesos cop",
         "img":"assets/img/cueros/cueros-candy.png",
-        "mercadoLibre":""
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-597025088-cueros-de-dulce-12-_JM"
     },
-    
     {
         "nombre":"Filtros Raw",
         "precio":"$ 4.000 pesos cop",
         "img":"assets/img/filtros/filtros-raw.png",
-        "mercadoLibre":""
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-597048020-filtros-raw-_JM"
     },
     {
         "nombre":"Filtros Hornet",
-        "precio":"$ 2.000 pesos cop",
+        "precio":"$ 1.500 pesos cop",
         "img":"assets/img/filtros/filtros-hornet.png",
-        "mercadoLibre":""
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-597057651-filtros-hornet-_JM"
     },
-
-
-
-
-
-
     {
         "nombre":"Gramera",
         "precio":"$ 30.000 pesos cop",
