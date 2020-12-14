@@ -31,7 +31,7 @@
     },
     {
         "nombre":"Raw Classic #9",
-        "precio":"$ 6.000 pesos cop",
+        "precio":"$ 5.000 pesos cop",
         "img":"assets/img/cueros/raw-classic9.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595927246-cueros-raw-clasico-negros-9-_JM"
     },
@@ -70,6 +70,12 @@
         "precio":"$ 3.000 pesos cop",
         "img":"assets/img/cueros/cueros-ocb.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-597043882-cueros-ocb-x50-9-organicos-_JM"
+    },
+    {
+        "nombre":"OCB Organico #7",
+        "precio":"$ 2.500 pesos cop",
+        "img":"assets/img/cueros/c-ocb7.png",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-598395191-cueros-ocb-7-_JM"
     },
     {
         "nombre":"Caja Blunt x25",

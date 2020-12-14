@@ -114,12 +114,6 @@
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595837875-grinder-en-acero-2-pisos-_JM"
      },
     {
-        "nombre":"G. Granada pequeña",
-        "precio":"$ 14.000 pesos cop",
-        "img":"assets/img/grinder/granada.jpg",
-        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-587325824-grinder-granada-2-pisos-pequena-_JM"
-    },
-    {
         "nombre":"Grinder extra grande",
         "precio":"$ 30.000 pesos cop",
         "img":"assets/img/grinder/grandeying-fondoblanco.jpg",
@@ -155,11 +149,12 @@
         "img":"assets/img/grinder/tornillo.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595866336-grinder-3-pisos-pequeno-_JM"
     },
-
-
-
-
-
+    {
+        "nombre":"B. Vood Hielo",
+        "precio":"$ 13.000 pesos cop",
+        "img":"assets/img/bong/B-Vood-Hielo.png",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-587967211-pipa-de-hielo-en-vidrio-_JM"
+    },
     {
         "nombre":"Bong Color",
         "precio":"$ 18.000 pesos cop",
@@ -170,12 +165,6 @@
         "nombre":"Bong de hielo",
         "precio":"$ 25.000 pesos cop",
         "img":"assets/img/bong/bonghielo-fondoblanco.jpg",
-        "mercadoLibre":""
-    },
-    {
-        "nombre":"B. Vood Hielo",
-        "precio":"$ 13.000 pesos cop",
-        "img":"assets/img/bong/B-Vood-Hielo.png",
         "mercadoLibre":""
     },
     {
@@ -451,7 +440,7 @@
     },
     {
         "nombre":"Raw Classic #9",
-        "precio":"$ 6.000 pesos cop",
+        "precio":"$ 5.000 pesos cop",
         "img":"assets/img/cueros/raw-classic9.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595927246-cueros-raw-clasico-negros-9-_JM"
     },
@@ -490,6 +479,12 @@
         "precio":"$ 3.000 pesos cop",
         "img":"assets/img/cueros/cueros-ocb.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-597043882-cueros-ocb-x50-9-organicos-_JM"
+    },
+    {
+        "nombre":"OCB Organico #7",
+        "precio":"$ 2.500 pesos cop",
+        "img":"assets/img/cueros/c-ocb7.png",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-598395191-cueros-ocb-7-_JM"
     },
     {
         "nombre":"Caja Blunt x25",

@@ -19,7 +19,7 @@
     },
     {
         "nombre":"G. Camuflado Grande",
-        "precio":"$ 29.000 pesos cop",
+        "precio":"$ 30.000 pesos cop",
         "img":"assets/img/grinder/g-camuflado-grande.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595737449-grinder-estilo-camuflado-3-pisos-_JM"
     },
@@ -58,6 +58,12 @@
         "precio":"$ 18.000 pesos cop",
         "img":"assets/img/grinder/calaverarosaspequeño-fondoblanco.jpg",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-587699734-grinder-negro-pequenos-rosas-3-pisos-_JM"
+    },
+    {
+        "nombre":"G. camuflado Pequeño",
+        "precio":"$ 18.000 pesos cop",
+        "img":"assets/img/grinder/militarpequeño-png1.png",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-587697315-grinder-camuflado-pequeno-3-pisos-_JM"
     },
     {
         "nombre":"Grinder Esfera",
@@ -100,12 +106,6 @@
         "precio":"$ 15.000 pesos cop",
         "img":"assets/img/grinder/g-amsterdam.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595837875-grinder-en-acero-2-pisos-_JM"
-    },
-    {
-        "nombre":"G. Granada pequeña",
-        "precio":"$ 14.000 pesos cop",
-        "img":"assets/img/grinder/granada.jpg",
-        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-587325824-grinder-granada-2-pisos-pequena-_JM"
     },
     {
         "nombre":"Grinder extra grande",

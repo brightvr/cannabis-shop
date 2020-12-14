@@ -1,5 +1,11 @@
 [
     {
+        "nombre":"B. Vood Hielo",
+        "precio":"$ 13.000 pesos cop",
+        "img":"assets/img/bong/B-Vood-Hielo.png",
+        "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-587967211-pipa-de-hielo-en-vidrio-_JM"
+    },
+    {
         "nombre":"Bong Color",
         "precio":"$ 18.000 pesos cop",
         "img":"assets/img/bong/b-color.png",
@@ -11,12 +17,7 @@
         "img":"assets/img/bong/bonghielo-fondoblanco.jpg",
         "mercadoLibre":""
     },
-    {
-        "nombre":"B. Vood Hielo",
-        "precio":"$ 13.000 pesos cop",
-        "img":"assets/img/bong/B-Vood-Hielo.png",
-        "mercadoLibre":""
-    },
+    
     {
         "nombre":"Bong Calavera plastico",
         "precio":"$ 9.000 pesos cop",
