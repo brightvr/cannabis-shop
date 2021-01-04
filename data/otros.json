@@ -2,14 +2,14 @@
     
     {
         "nombre":"Quemador Snoop Dogg",
-        "precio":"$ 37.000 pesos cop",
+        "precio":"$ 38.000 pesos cop",
         "img":"assets/img/vaporizador/quemador.png",
         "mercadoLibre":""
         
     },
     {
         "nombre":"Daber para Wax",
-        "precio":"$ 6.000 pesos cop",
+        "precio":"$ 6.500 pesos cop",
         "img":"assets/img/otros/daber.png",
         "mercadoLibre":""
     },
@@ -21,13 +21,13 @@
     },
     {
         "nombre":"Cenicero",
-        "precio":"$ 10.000 pesos cop",
+        "precio":"$ 11.000 pesos cop",
         "img":"assets/img/otros/ceniceros.png",
         "mercadoLibre":""
     },
     {
         "nombre":"Contenedor",
-        "precio":"$ 8.000 pesos cop",
+        "precio":"$ 10.000 pesos cop",
         "img":"assets/img/otros/contenedor.png",
         "mercadoLibre":""
     },
@@ -39,13 +39,13 @@
     },
     {
         "nombre":"Maquina para Liar",
-        "precio":"$ 14.000 pesos cop",
+        "precio":"$ 15.000 pesos cop",
         "img":"assets/img/otros/maquina-liar.png",
         "mercadoLibre":""
     },
     {
         "nombre":"Trio de Copitas",
-        "precio":"$ 39.000 pesos cop",
+        "precio":"$ 40.000 pesos cop",
         "img":"assets/img/otros/trio-copitas.png",
         "mercadoLibre":""
     }

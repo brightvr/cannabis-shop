@@ -7,7 +7,7 @@
     },
     {
         "nombre":"G. Granada Grande",
-        "precio":"$ 20.000 pesos cop",
+        "precio":"$ 22.000 pesos cop",
         "img":"assets/img/grinder/granada.jpg",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595692843-grinder-granada-2-pisos-_JM"
     },
@@ -19,13 +19,13 @@
     },
     {
         "nombre":"G. Camuflado Grande",
-        "precio":"$ 30.000 pesos cop",
+        "precio":"$ 31.000 pesos cop",
         "img":"assets/img/grinder/g-camuflado-grande.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595737449-grinder-estilo-camuflado-3-pisos-_JM"
     },
     {
         "nombre":"Grinder Proveedor",
-        "precio":"$ 16.000 pesos cop",
+        "precio":"$ 16.500 pesos cop",
         "img":"assets/img/grinder/proveedor.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-580604351-grender-proveedor-negro-aluminio-_JM"
     },
@@ -43,25 +43,25 @@
     },
     {
         "nombre":"G. Negro Mediano",
-        "precio":"$ 18.000 pesos cop",
+        "precio":"$ 18.500 pesos cop",
         "img":"assets/img/grinder/negrocalavera-fondoblanco.jpg",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-587470445-grinder-negro-3-pisos-_JM"
     },
     {
         "nombre":"G. Madera 2 pisos",
-        "precio":"$ 14.000 pesos cop",
+        "precio":"$ 15.000 pesos cop",
         "img":"assets/img/grinder/madera-2pisos.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595751385-grinder-madera-2-pisos-_JM"
     },
     {
         "nombre":"G. Estampado Pequeño",
-        "precio":"$ 18.000 pesos cop",
+        "precio":"$ 18.500 pesos cop",
         "img":"assets/img/grinder/calaverarosaspequeño-fondoblanco.jpg",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-587699734-grinder-negro-pequenos-rosas-3-pisos-_JM"
     },
     {
         "nombre":"G. camuflado Pequeño",
-        "precio":"$ 18.000 pesos cop",
+        "precio":"$ 18.500 pesos cop",
         "img":"assets/img/grinder/militarpequeño-png1.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-587697315-grinder-camuflado-pequeno-3-pisos-_JM"
     },
@@ -79,7 +79,7 @@
     },
     {
         "nombre":"G. Negro Pequeño",
-        "precio":"$ 12.000 pesos cop",
+        "precio":"$ 12.500 pesos cop",
         "img":"assets/img/grinder/negro-pequeño.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595755585-grinder-negro-pequeno-2-pisos-_JM"
     },
@@ -91,7 +91,7 @@
     },
     {
         "nombre":"G. Barril Peligro",
-        "precio":"$ 16.000 pesos cop",
+        "precio":"$ 16.500 pesos cop",
         "img":"assets/img/grinder/g-peligro.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595834537-grinder-barril-peligro-2-pisos-_JM"
     },
@@ -103,13 +103,13 @@
     },
     {
         "nombre":"Grinder 4/20",
-        "precio":"$ 15.000 pesos cop",
+        "precio":"$ 15.500 pesos cop",
         "img":"assets/img/grinder/g-amsterdam.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595837875-grinder-en-acero-2-pisos-_JM"
     },
     {
         "nombre":"Grinder extra grande",
-        "precio":"$ 30.000 pesos cop",
+        "precio":"$ 31.000 pesos cop",
         "img":"assets/img/grinder/grandeying-fondoblanco.jpg",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595852713-grinder-en-acero-grande-3-pisos-_JM"
     },
@@ -121,7 +121,7 @@
     },
     {
         "nombre":"Grinder Plastico Big",
-        "precio":"$ 8.000 pesos cop",
+        "precio":"$ 8.500 pesos cop",
         "img":"assets/img/grinder/verdeplastico-fondoblanco.jpg",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-580226297-grender-acrilico-en-plastico-_JM"
     },
@@ -133,7 +133,7 @@
     },
     {
         "nombre":"Grinder Dorado",
-        "precio":"$ 15.000 pesos cop",
+        "precio":"$ 15.500 pesos cop",
         "img":"assets/img/grinder/dorado.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-595864301-grinder-dorado-2-pisos-_JM"
     },

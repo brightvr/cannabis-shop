@@ -1,19 +1,19 @@
 [
     {
         "nombre":"B. Vood Hielo",
-        "precio":"$ 13.000 pesos cop",
+        "precio":"$ 13.500 pesos cop",
         "img":"assets/img/bong/B-Vood-Hielo.png",
         "mercadoLibre":"https://articulo.mercadolibre.com.co/MCO-587967211-pipa-de-hielo-en-vidrio-_JM"
     },
     {
         "nombre":"Bong Color",
-        "precio":"$ 18.000 pesos cop",
+        "precio":"$ 20.000 pesos cop",
         "img":"assets/img/bong/b-color.png",
         "mercadoLibre":""
     },
     {
         "nombre":"Bong de hielo",
-        "precio":"$ 25.000 pesos cop",
+        "precio":"$ 26.000 pesos cop",
         "img":"assets/img/bong/bonghielo-fondoblanco.jpg",
         "mercadoLibre":""
     },
@@ -26,37 +26,37 @@
     },
     {
         "nombre":"Bong Calavera vidrio",
-        "precio":"$ 16.000 pesos cop",
+        "precio":"$ 17.000 pesos cop",
         "img":"assets/img/bong/calaveravidrio-fondoblanco.jpg",
         "mercadoLibre":""
     },
     {
         "nombre":"B. Estampado Plastico",
-        "precio":"$ 15.000 pesos cop",
+        "precio":"$ 15.500 pesos cop",
         "img":"assets/img/bong/b-estampado-plastico.png",
         "mercadoLibre":""
     },
     {
         "nombre":"Bong tornasol",
-        "precio":"$ 12.000 pesos cop",
+        "precio":"$ 12.500 pesos cop",
         "img":"assets/img/bong/bongtornasol-fondoblanco.jpg",
         "mercadoLibre":""
     },
     {
         "nombre":"Bong vidrio A1",
-        "precio":"$ 18.000 pesos cop",
+        "precio":"$ 18.500 pesos cop",
         "img":"assets/img/bong/b-cajaverde.png",
         "mercadoLibre":""
     },
     {
         "nombre":"Bong vidrio A2",
-        "precio":"$ 20.000 pesos cop",
+        "precio":"$ 20.500 pesos cop",
         "img":"assets/img/bong/vidriobotellagruesa-fondoblanco.jpg",
         "mercadoLibre":""
     }, 
     {
         "nombre":"Bong vidrio Azul",
-        "precio":"$ 15.000 pesos cop",
+        "precio":"$ 15.500 pesos cop",
         "img":"assets/img/bong/b-azulvidrio.png",
         "mercadoLibre":""
     }
